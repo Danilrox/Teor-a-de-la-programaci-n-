@@ -1,11 +1,11 @@
 # 📘 Portafolio Digital de Aprendizaje – Teoría de la Programación
-                                                            **Institución:** Universidad Nacional de Loja  
+**Universidad Nacional de Loja **
 **Carrera:** Computación  
 **Asignatura:** Teoría de la Programación  
-**Ciclo:** [Primer ciclo]  
-**Período Académico:** [Octubre 2025 – Febrero 2026]  
-**Docente:** [Ing. Lissette López]  
-**Estudiante:** [José Daniel Maldonado Rodriguez]  
+**Ciclo:** Primer ciclo
+**Período Académico:** Octubre 2025 – Febrero 2026  
+**Docente:** Ing. Lissette López 
+**Estudiante:** José Daniel Maldonado Rodriguez 
 
 
 
