@@ -69,9 +69,13 @@ PSelnt es una  herramienta digital para la construcción y aprendizajes de algor
 Un algoritmo sirve para planificar los un programa antes de escribirlo y ayuda a entender la lógica del problema. los algoritmos anteriores tambien los podemos pasar a un lenguaje de programación en este caso "C".
 <br>
 [Algoritmo que calcula el presupuesta de pintura dependiendo de los metros cuadrados](presupuestopintura.c)
+<br>
 [Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay](calculadoraPorcentajes.c)
 <br>
 
+---
 - **Tareas entregadas**
 ---
+[Herramientas digitales para pseudocodigo y diagramas de flujo](Herramientasdigitalesparapseudocodigoydiagramasdeflujo.pdf)
+[Revisión de tutoriales oficiales de instalación de lenguajes de programación (C, Python o Java)](Revisióndetutorialesoficialesdeinstalacióndelenguajesdeprogramación(C,PythonoJava).pdf)
 
