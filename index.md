@@ -12,15 +12,12 @@
 ## 💡 **Descripción del Portafolio**
 
 Este portafolio digital tiene como objetivo recopilar y evidenciar los aprendizajes, proyectos y ejercicios desarrollados durante la asignatura **Teoría de la Programación**.  
-Aquí se incluyen resúmenes teóricos, prácticas de laboratorio, programas elaborados en C y reflexiones personales sobre el proceso de aprendizaje.
+Aquí se incluyen resúmenes teóricos, prácticas, programas elaborados en C y reflexiones personales sobre el proceso de aprendizaje.
 
 ---
 
 ## 🧠 **Objetivos**
-
-- Demostrar los conocimientos adquiridos sobre los fundamentos de la programación.  
-- Documentar el desarrollo de habilidades en el uso de algoritmos y estructuras básicas.  
-- Presentar los ejercicios y proyectos realizados durante el período académico.
+Elaborar un Portafolio Digital que registre y organice las actividades de la Unidad 1, integrando evidencias y reflexiones que consoliden los aprendizajes sobre algoritmos y programas con estructuras secuenciales. 
 
 ---
 
