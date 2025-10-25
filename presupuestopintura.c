@@ -15,4 +15,6 @@ printf("tu presupuesto es de %d dolares", presupuesto);
 
 return 0;
     
+
 }
+Codigo/presupuestopintura.c
