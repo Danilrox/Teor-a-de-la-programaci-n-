@@ -64,9 +64,7 @@ PSelnt es una  herramienta digital para la construcción y aprendizajes de algor
 <img width="743" height="781" alt="image" src="https://github.com/user-attachments/assets/fc06491e-8435-4f86-84a2-7b738eceb66b" />
 <img width="598" height="237" alt="image" src="https://github.com/user-attachments/assets/59e3dc46-2c37-4f94-b1ba-b158b1b39fdb" />
 
+<br>
 
-
-
-
-
+Un algoritmo sirve para planificar los un programa antes de escribirlo y ayuda a entender la lógica del problema. los algoritmos anteriores tambien los podemos pasar a un lenguaje de programación en este caso "C".
 
