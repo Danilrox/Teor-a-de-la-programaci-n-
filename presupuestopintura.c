@@ -17,4 +17,3 @@ return 0;
     
 
 }
-Codigo/presupuestopintura.c
