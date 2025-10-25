@@ -5,7 +5,8 @@ En esta unidad se abordan los conceptos básicos de la programación, los algori
 ## 📘 Contenidos de la Unidad
 ---
 
--**Programación por bloques:**
+- **Programación por bloques:**
+
 La programación por bloques es un tipo de programación donde los programas se crean arrastrando y conectando bloques visuales en lugar de escribir líneas de código.
 
 -Cada bloque representa una instrucción, acción o estructura (como bucles, decisiones, variables).
@@ -16,9 +17,14 @@ Blockly Games es una plataforma educativa en línea creada por Google para ense�
 
 <img width="1582" height="730" alt="Captura de pantalla 2025-10-25 101958" src="https://github.com/user-attachments/assets/3007b017-ad63-4df6-ada2-6811255486ba" />
 
+<img width="1597" height="726" alt="Captura de pantalla 2025-10-24 170115" src="https://github.com/user-attachments/assets/f741d813-468d-4706-b65b-4ac26a735804" />
 
+<img width="1600" height="740" alt="image" src="https://github.com/user-attachments/assets/19e7303e-beda-4453-9dc4-4b6d7fc8da7e" />
+
+<img width="1590" height="704" alt="image" src="https://github.com/user-attachments/assets/f3f0f1a4-8f0d-4887-beb0-cbea732a09bc" />
 
 - **Algoritmos, diagramas de flujo y pseudocódigo:**
+
 Un algoritmo es un conjunto ordenado  de pasos que se deben seguir para resolver un problema o realizar una tarea. Una forma de escribir un algoritmo es mediante pseudocódigo, el cual usa palabras y estructuras parecidas a un lenguaje de programación pero sin seguir las reglas estrictas de un lenguaje real(como C, python o Java). Sirve planificar un programa antes de escribirlo y ayuda a entender la lógica del problema, sin preocuparse por la sintaxis del lenguaje.
 Para representar nuestro algoritmo de forma grafica usamos un diagrama de flujo donde se muestran los pasos o acciones a seguir mediante figuras geométricas (símbolos) conectadas por flechas.
 
