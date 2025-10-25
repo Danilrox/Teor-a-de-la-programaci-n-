@@ -24,8 +24,9 @@ Blockly Games es una plataforma educativa en línea creada por Google para ense�
 <img width="1600" height="740" alt="image" src="https://github.com/user-attachments/assets/19e7303e-beda-4453-9dc4-4b6d7fc8da7e" />
 
 <img width="1590" height="704" alt="image" src="https://github.com/user-attachments/assets/f3f0f1a4-8f0d-4887-beb0-cbea732a09bc" />
-
----
+<br>
+<br>
+<br>
 
 *Pilas Blques:*
 Pilas Bloques es una herramienta gratuita y de código abierto diseñada para enseñar programación a niños, niñas y adolescentes mediante programación por bloques. Tiene un enfoque ludico donde los usuarios resuelven desafíos interactivos utilizando bloques visuales que representan instrucciones de programación esto mediante niveles progresivos que van a umentando la dificultad del desafio.
@@ -63,7 +64,7 @@ PSelnt es una  herramienta digital para la construcción y aprendizajes de algor
 <img width="595" height="524" alt="image" src="https://github.com/user-attachments/assets/3311463f-a5a6-455e-b2e7-4529a825be6b" />
 <img width="743" height="781" alt="image" src="https://github.com/user-attachments/assets/fc06491e-8435-4f86-84a2-7b738eceb66b" />
 <img width="598" height="237" alt="image" src="https://github.com/user-attachments/assets/59e3dc46-2c37-4f94-b1ba-b158b1b39fdb" />
-
+<br>
 <br>
 
 Un algoritmo sirve para planificar los un programa antes de escribirlo y ayuda a entender la lógica del problema. los algoritmos anteriores tambien los podemos pasar a un lenguaje de programación en este caso "C".
@@ -73,14 +74,36 @@ Un algoritmo sirve para planificar los un programa antes de escribirlo y ayuda a
 <br>
 [Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay en C](calculadoraPorcentajes.c)
 <br>
+<br>
 
 ---
 - **Tareas entregadas**
----
+
 [Herramientas digitales para pseudocodigo y diagramas de flujo](Herramientasdigitalesparapseudocodigoydiagramasdeflujo.pdf)
+<br>
+En esta actividad se realizo un diseño de algoritmo representado en pseudocódigo y en diagrama de flujo utilizando la herramienta digital PSelnt. Mediante un informe se explica como funciona este algoritmo y que pasos sigue para desarrollarlo. Ademas se describe a la herramienta dando a conocer sus caracterisitcas, usos y limitaciones. Se concluye que a pesar de que esta herramienta tiene pocas funciones y carece de componentes gráficos en comparación con otros lenguajes de programación. Pselnt sobresale en el aparatado educativo. 
 <br>
 <br>
 [Revisión de tutoriales oficiales de instalación de lenguajes de programación (C, Python o Java)](Revisióndetutorialesoficialesdeinstalacióndelenguajesdeprogramación(C,PythonoJava).pdf)
 <br>
+En esta actividad se realizo la instalación del lenguaje de programación C con la ayuda de tutoriales en linea. En el informe adjuntado se explica los pasos detallados de la instalacion con capturas de pantalla, el origen de C, sus usos, ventajas y limitaciones. Ademas se describe la ejecucion de nuestro primer programa en C ("Hola mundo") y como se escribió el código de este. 
+<br>
+<br>
+[Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo]()
+<br>
+Esta actividad tiene como objetivo que el estudiante se familiarice con la herramienta PSeInt y aprenda a desarrollar su primer algoritmo utilizando estructuras secuenciales básicas. Por lo cual el estudiante crea un algoritmo para resolver el siguiente problema: Un estudiante desea calcular su Índice de Masa Corporal (IMC) para saber si su peso está dentro de lo normal. El trabajo realizado concluye que el pseudocódigo es una herramienta fundamental para aprender lógica de programación, ya que permite comprender la estructura de los algoritmos y facilita la transición hacia lenguajes de alto nivel. 
+<br>
+<br>
+[“Cazadores de Bugs”]()
+<br>
+Esta actividad
+
+<br>
+<br>
+
+---
+- **Dificultades en la aplicación de los contenidos.**
+
+
 
 
