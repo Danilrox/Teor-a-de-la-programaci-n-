@@ -25,4 +25,4 @@ Aquí se incluyen resúmenes teóricos, prácticas de laboratorio, programas ela
 ---
 
 ## 💻 **Contenido**
-[Ir a la unidad 1](Teor-a-de-la-programaci-n-/Unidad1/anexos.md)
+[Ir a la unidad 1](/Unidad1/anexos.md)
