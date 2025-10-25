@@ -12,7 +12,9 @@ La programación por bloques es un tipo de programación donde los programas se 
 -Cada bloque representa una instrucción, acción o estructura (como bucles, decisiones, variables).
 -Los bloques encajan entre sí como piezas de un rompecabezas, formando un programa funcional.
 -Se usa mucho en educación como una forma de aprendizaje para los conceptos basicos de progrmación, porque es visual y fácil de entender.
-Hay varias paginas web para poder practicar la progrmación por bloques, una de estas es blockly games.
+Hay varias paginas web para poder practicar la progrmación por bloques:
+
+- *Blockly games:*
 Blockly Games es una plataforma educativa en línea creada por Google para enseñar programación a principiantes, especialmente niños y jóvenes, usando programación por bloques. Se basa en Blockly, que es un sistema de bloques visuales que se conectan como piezas de rompecabezas.Permite aprender conceptos de programación como secuencias, bucles, conclydicionales, funciones y eventos sin escribir código tradicional. Aqui hay algunos ejericicos que se puede realizar en Blockly games
 
 <img width="1582" height="730" alt="Captura de pantalla 2025-10-25 101958" src="https://github.com/user-attachments/assets/3007b017-ad63-4df6-ada2-6811255486ba" />
@@ -22,6 +24,19 @@ Blockly Games es una plataforma educativa en línea creada por Google para ense�
 <img width="1600" height="740" alt="image" src="https://github.com/user-attachments/assets/19e7303e-beda-4453-9dc4-4b6d7fc8da7e" />
 
 <img width="1590" height="704" alt="image" src="https://github.com/user-attachments/assets/f3f0f1a4-8f0d-4887-beb0-cbea732a09bc" />
+
+
+- *Pilas Blques:*
+Pilas Bloques es una herramienta gratuita y de código abierto diseñada para enseñar programación a niños, niñas y adolescentes mediante programación por bloques. Tiene un enfoque ludico donde los usuarios resuelven desafíos interactivos utilizando bloques visuales que representan instrucciones de programación esto mediante niveles progresivos que van a umentando la dificultad del desafio.
+
+
+<img width="1600" height="729" alt="image" src="https://github.com/user-attachments/assets/3d1dc364-84f0-4f2c-931b-c60c0a5b38c1" />
+
+<img width="1600" height="740" alt="image" src="https://github.com/user-attachments/assets/1e4efd3e-0fd3-4036-af56-fe544ad8a059" />
+
+<img width="1600" height="739" alt="image" src="https://github.com/user-attachments/assets/74d8de99-5dc3-4709-bd49-17c02f1e6e94" />
+
+
 
 - **Algoritmos, diagramas de flujo y pseudocódigo:**
 
