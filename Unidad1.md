@@ -3,17 +3,17 @@
 En esta unidad se abordan los conceptos básicos de la programación, los algoritmos, Herramientas de algoritmos (pseudocódigo y diagramas de flujo), la instalaciónn de lenguajes de programacion y un primer acercamiento a estos con el lenguaje de programación C 
 
 ## 📘 Contenidos de la Unidad
+
 ---
 
 - **Programación por bloques:**
 
 La programación por bloques es un tipo de programación donde los programas se crean arrastrando y conectando bloques visuales en lugar de escribir líneas de código.
-
 Cada bloque representa una instrucción, acción o estructura (como bucles, decisiones, variables).
 Los bloques encajan entre sí como piezas de un rompecabezas, formando un programa funcional.
 Se usa mucho en educación como una forma de aprendizaje para los conceptos basicos de progrmación, porque es visual y fácil de entender.
 Hay varias paginas web para poder practicar la progrmación por bloques:
-
+<br>
 *Blockly games:*
 Blockly Games es una plataforma educativa en línea creada por Google para enseñar programación a principiantes, especialmente niños y jóvenes, usando programación por bloques. Se basa en Blockly, que es un sistema de bloques visuales que se conectan como piezas de rompecabezas.Permite aprender conceptos de programación como secuencias, bucles, conclydicionales, funciones y eventos sin escribir código tradicional. Aqui hay algunos ejericicos que se puede realizar en Blockly games
 
@@ -26,6 +26,7 @@ Blockly Games es una plataforma educativa en línea creada por Google para ense�
 <img width="1590" height="704" alt="image" src="https://github.com/user-attachments/assets/f3f0f1a4-8f0d-4887-beb0-cbea732a09bc" />
 
 ---
+
 *Pilas Blques:*
 Pilas Bloques es una herramienta gratuita y de código abierto diseñada para enseñar programación a niños, niñas y adolescentes mediante programación por bloques. Tiene un enfoque ludico donde los usuarios resuelven desafíos interactivos utilizando bloques visuales que representan instrucciones de programación esto mediante niveles progresivos que van a umentando la dificultad del desafio.
 
@@ -36,26 +37,28 @@ Pilas Bloques es una herramienta gratuita y de código abierto diseñada para en
 
 <img width="1600" height="739" alt="image" src="https://github.com/user-attachments/assets/74d8de99-5dc3-4709-bd49-17c02f1e6e94" />
 
-
 ---
+
 - **Algoritmos, diagramas de flujo y pseudocódigo:**
 
 Un algoritmo es un conjunto ordenado  de pasos que se deben seguir para resolver un problema o realizar una tarea. Una forma de escribir un algoritmo es mediante pseudocódigo, el cual usa palabras y estructuras parecidas a un lenguaje de programación pero sin seguir las reglas estrictas de un lenguaje real(como C, python o Java). Sirve planificar un programa antes de escribirlo y ayuda a entender la lógica del problema, sin preocuparse por la sintaxis del lenguaje.
 Para representar nuestro algoritmo de forma grafica usamos un diagrama de flujo donde se muestran los pasos o acciones a seguir mediante figuras geométricas (símbolos) conectadas por flechas.
 
 Para escribir y representar de mejor manera nuestro algoritmo usamos herramientas de algoritmos. Estos son programas con recursos y metodos de diseño especializados en analizar y resolver problemas mediante algoritmos. Un ejemplo de este estas herramientas es PSelnt. 
-
+<br>
 *PSelnt:*
 PSelnt es una  herramienta digital para la construcción y aprendizajes de algoritmos computacionales, el cual tiene un pseudocódigo intuitivo y la posibilidad de visualizarlo como un diagrama de flujo, permitiendo al usuairo la posibilidad de editarlo en ambos formatos. Además el programa puede mostrar los errores del algoritmo y puedes convertirlo a código de varios lenguajes de programación.
 
 ---
+
 - **Ejemplos de Algortimos con estructuras lineales/secuenciales:**
+<br>
 *Algoritmo que calcula el presupuesta de pintura dependiendo de los metros cuadrados*
 <img width="604" height="454" alt="image" src="https://github.com/user-attachments/assets/4fa8cdfc-0dbc-48d9-a3a0-be433c3afffd" />
 <img width="725" height="790" alt="image" src="https://github.com/user-attachments/assets/7af18451-c0bf-427a-ba60-484680c4fc09" />
 <img width="531" height="336" alt="image" src="https://github.com/user-attachments/assets/83f37546-9252-4de0-8544-e06e4fd6c131" />
-
-
+<br>
+<br>
 *Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay*
 <img width="595" height="524" alt="image" src="https://github.com/user-attachments/assets/3311463f-a5a6-455e-b2e7-4529a825be6b" />
 <img width="743" height="781" alt="image" src="https://github.com/user-attachments/assets/fc06491e-8435-4f86-84a2-7b738eceb66b" />
