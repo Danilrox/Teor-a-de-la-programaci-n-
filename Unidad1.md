@@ -53,13 +53,13 @@ PSelnt es una  herramienta digital para la construcción y aprendizajes de algor
 
 - **Ejemplos de Algortimos con estructuras lineales/secuenciales:**
 <br>
-*Algoritmo que calcula el presupuesta de pintura dependiendo de los metros cuadrados*
+- *Algoritmo que calcula el presupuesta de pintura dependiendo de los metros cuadrados*
 <img width="604" height="454" alt="image" src="https://github.com/user-attachments/assets/4fa8cdfc-0dbc-48d9-a3a0-be433c3afffd" />
 <img width="725" height="790" alt="image" src="https://github.com/user-attachments/assets/7af18451-c0bf-427a-ba60-484680c4fc09" />
 <img width="531" height="336" alt="image" src="https://github.com/user-attachments/assets/83f37546-9252-4de0-8544-e06e4fd6c131" />
 <br>
 <br>
-*Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay*
+- *Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay*
 <img width="595" height="524" alt="image" src="https://github.com/user-attachments/assets/3311463f-a5a6-455e-b2e7-4529a825be6b" />
 <img width="743" height="781" alt="image" src="https://github.com/user-attachments/assets/fc06491e-8435-4f86-84a2-7b738eceb66b" />
 <img width="598" height="237" alt="image" src="https://github.com/user-attachments/assets/59e3dc46-2c37-4f94-b1ba-b158b1b39fdb" />
