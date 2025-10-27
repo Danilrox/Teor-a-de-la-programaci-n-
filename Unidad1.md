@@ -112,7 +112,8 @@ Durante el desarrollo de los contenidos de la primera unidad se presentaron algn
 El primer problema que tuve fue traducir la teoría en práctica, es decir, transformar una idea lógica en pasos estructurados dentro de un algoritmo. También se presentaron errores frecuentes en la sintaxis del pseudocódigo, como la omisión de palabras clave, símbolos o el uso incorrecto de variables.
 La principal dificultad fue la transicion al lenguaje C, ya que me enfrente a un entorno más estricto y estructurado, donde los errores de sintaxis y tipado son frecuentes. Finalmente, la adaptación también implicó ajustar la forma de pensar: pasar de un entorno guiado por pasos visuales o descripciones textuales a uno que exige precisión técnica, atención a los detalles y un mayor nivel de abstracción. No obstante, estas dificultades fueron esenciales para fortalecer mi comprensión de cómo los algoritmos se traducen en programas funcionales, afianzando la relación entre la lógica de programación y la codificación en un lenguaje real.
 <br>
-<br>
+
+---
 
 ### 💬 Reflexión Critica de los aprendizajes de la Unidad
 <br>
