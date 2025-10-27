@@ -2,11 +2,26 @@
 <img width="337" height="126" alt="image" src="https://github.com/user-attachments/assets/3471581e-764d-4867-8bce-cf984f38e7e3" />
 
 <p align="center">
-  <h1>🌟 <strong>Unidad 1: Algoritmos, Pseudocódigo y Diagramas de Flujo</strong> 🌟</h1>
-  <h3>💻 Teoría de la Programación</h3>
-  <p><em>Carrera de Computación – Universidad Nacional de Loja</em></p>
-  <p><strong>Portafolio Digital de Aprendizaje</strong></p>
-  <hr style="width:60%; margin:auto;">
+
+<h1>📘 <strong>Universidad Nacional de Loja</strong> 📘</h1>
+
+<h2>💻 <strong>Carrera de Computación</strong></h2>
+
+<hr style="width:60%; margin:auto;">
+
+<h3>🧠 <strong>Asignatura:</strong> Teoría de la Programación</h3>
+<h3>📆 <strong>Ciclo:</strong> Primer Ciclo</h3>
+<h3>🗓️ <strong>Período Académico:</strong> Octubre 2025 – Febrero 2026</h3>
+
+<hr style="width:50%; margin:auto;">
+
+<h3>👩‍🏫 <strong>Docente:</strong> Ing. Lissette López</h3>
+<h3>🧑‍🎓 <strong>Estudiante:</strong> José Daniel Maldonado Rodríguez</h3>
+
+<hr style="width:40%; margin:auto;">
+
+<h2>🌟 <em>Portafolio Digital de Aprendizaje</em> 🌟</h2>
+
 </p>
 
 
