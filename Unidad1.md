@@ -6,7 +6,7 @@ En esta unidad se abordan los conceptos básicos de la programación, los algori
 
 ---
 
-- **Programación por bloques:**
+## Programación por bloques
 
 La programación por bloques es un tipo de programación donde los programas se crean arrastrando y conectando bloques visuales en lugar de escribir líneas de código.
 Cada bloque representa una instrucción, acción o estructura (como bucles, decisiones, variables).
@@ -96,7 +96,7 @@ Esta actividad tiene como objetivo que el estudiante se familiarice con la herra
 <br>
 [“Cazadores de Bugs”]()
 <br>
-Esta actividad
+La presente actividad tiene como objetivo fortalecer las habilidades de detección y corrección de errores (debugging). Estas habilidades se desarrollan en la correccion de algoritmos escritos en pseudocódigo con el fin de facilitar las tareas de correccion de codigo en otros lenguajes de programación. 
 
 <br>
 <br>
