@@ -2,11 +2,10 @@
 ---
 En esta unidad se abordan los conceptos básicos de la programación, los algoritmos, Herramientas de algoritmos (pseudocódigo y diagramas de flujo), la instalaciónn de lenguajes de programacion y un primer acercamiento a estos con el lenguaje de programación C 
 
+---
 ## 📘 Contenidos de la Unidad
 
----
-
-## Programación por bloques
+### Programación por bloques
 
 La programación por bloques es un tipo de programación donde los programas se crean arrastrando y conectando bloques visuales en lugar de escribir líneas de código.
 Cada bloque representa una instrucción, acción o estructura (como bucles, decisiones, variables).
