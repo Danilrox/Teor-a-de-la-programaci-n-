@@ -1,9 +1,10 @@
-# 📘 Portafolio Digital de Aprendizaje – Teoría de la Programación
+# 📘 Portafolio Digital de Aprendizaje – Teoría de la Programación 📘
 <img width="337" height="126" alt="image" src="https://github.com/user-attachments/assets/3471581e-764d-4867-8bce-cf984f38e7e3" />
+<img width="397" height="101" alt="image" src="https://github.com/user-attachments/assets/d49ce9cc-a3ba-4c33-940c-6eb15f487f20" />
 
 <div align="center">
 
-# 📘 **Universidad Nacional de Loja**
+# **Universidad Nacional de Loja**
 
 ## 💻 **Carrera de Computación**
 <br>
