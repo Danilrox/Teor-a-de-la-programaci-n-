@@ -106,8 +106,19 @@ La presente actividad tiene como objetivo fortalecer las habilidades de detecci�
 <br>
 
 ---
-- **Dificultades en la aplicación de los contenidos.**
+### ⚙️ Dificultades en la aplicación de los contenidos
+<br>
+Durante el desarrollo de los contenidos de la primera unidad se presentaron algnas dificultades, en especial al aplicar los conceptos teóricos de algoritmos, pseudocódigo, diagramas de flujo y la transicion a un lenguaje de programación (en este caso C).
+El primer problema que tuve fue traducir la teoría en práctica, es decir, transformar una idea lógica en pasos estructurados dentro de un algoritmo. También se presentaron errores frecuentes en la sintaxis del pseudocódigo, como la omisión de palabras clave, símbolos o el uso incorrecto de variables.
+La principal dificultad fue la transicion al lenguaje C, ya que me enfrente a un entorno más estricto y estructurado, donde los errores de sintaxis y tipado son frecuentes. Finalmente, la adaptación también implicó ajustar la forma de pensar: pasar de un entorno guiado por pasos visuales o descripciones textuales a uno que exige precisión técnica, atención a los detalles y un mayor nivel de abstracción. No obstante, estas dificultades fueron esenciales para fortalecer mi comprensión de cómo los algoritmos se traducen en programas funcionales, afianzando la relación entre la lógica de programación y la codificación en un lenguaje real.
+<br>
+<br>
 
-
-
-
+### 💬 Reflexión Critica de los aprendizajes de la Unidad
+<br>
+Esta primera unidad me permitió comprender que programar no comienza escribiendo código, sino pensando de forma lógica y ordenada.
+A través del estudio de algoritmos, pseudocódigo y diagramas de flujo se fortaleció la capacidad de analizar problemas, descomponerlos en pasos simples y diseñar soluciones claras.
+El uso de herramientas como PSeInt y plataformas visuales como Blockly o Pilas Bloques facilitó la comprensión del flujo de ejecución y del papel que tienen las estructuras secuenciales.
+Superar los errores en los algoritmos ayudó a desarrollar paciencia, atención al detalle y capacidad de autoevaluación, cualidades esenciales en la programación.
+La transición al lenguaje de programación C me permitio adaptar mis algoritmos a un lenguaje de programacion real, lo que ma da las bases para seguir aprendiendo nuevos conceptos. 
+Esta experiencia consolidó las bases necesarias para avanzar hacia unidades más complejas, comprendiendo que la lógica y la práctica constante son la clave para dominar la programación.
