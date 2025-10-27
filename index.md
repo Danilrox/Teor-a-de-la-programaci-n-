@@ -1,13 +1,14 @@
 # 📘 Portafolio Digital de Aprendizaje – Teoría de la Programación
 <img width="337" height="126" alt="image" src="https://github.com/user-attachments/assets/3471581e-764d-4867-8bce-cf984f38e7e3" />
 
-**Universidad Nacional de Loja**
-**Carrera:** Computación  
-**Asignatura:**c  
-**Ciclo:** Primer ciclo
-**Período Académico:** Octubre 2025 – Febrero 2026  
-**Docente:** Ing. Lissette López 
-**Estudiante:** José Daniel Maldonado Rodriguez 
+<p align="center">
+  <h1>🌟 <strong>Unidad 1: Algoritmos, Pseudocódigo y Diagramas de Flujo</strong> 🌟</h1>
+  <h3>💻 Teoría de la Programación</h3>
+  <p><em>Carrera de Computación – Universidad Nacional de Loja</em></p>
+  <p><strong>Portafolio Digital de Aprendizaje</strong></p>
+  <hr style="width:60%; margin:auto;">
+</p>
+
 
 
 
