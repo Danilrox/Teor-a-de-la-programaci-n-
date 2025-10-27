@@ -93,12 +93,12 @@ En esta actividad se realizo un diseño de algoritmo representado en pseudocódi
 En esta actividad se realizo la instalación del lenguaje de programación C con la ayuda de tutoriales en linea. En el informe adjuntado se explica los pasos detallados de la instalacion con capturas de pantalla, el origen de C, sus usos, ventajas y limitaciones. Ademas se describe la ejecucion de nuestro primer programa en C ("Hola mundo") y como se escribió el código de este. 
 <br>
 <br>
-[Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo]()
+[Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](APE1TeoriaDeLaProgramacion.pdf)
 <br>
 Esta actividad tiene como objetivo que el estudiante se familiarice con la herramienta PSeInt y aprenda a desarrollar su primer algoritmo utilizando estructuras secuenciales básicas. Por lo cual el estudiante crea un algoritmo para resolver el siguiente problema: Un estudiante desea calcular su Índice de Masa Corporal (IMC) para saber si su peso está dentro de lo normal. El trabajo realizado concluye que el pseudocódigo es una herramienta fundamental para aprender lógica de programación, ya que permite comprender la estructura de los algoritmos y facilita la transición hacia lenguajes de alto nivel. 
 <br>
 <br>
-[“Cazadores de Bugs”]()
+[“Cazadores de Bugs”](“Cazadores de Bugs”.pdf)
 <br>
 La presente actividad tiene como objetivo fortalecer las habilidades de detección y corrección de errores (debugging). Estas habilidades se desarrollan en la correccion de algoritmos escritos en pseudocódigo con el fin de facilitar las tareas de correccion de codigo en otros lenguajes de programación. 
 
