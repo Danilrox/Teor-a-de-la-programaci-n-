@@ -17,6 +17,7 @@ Hay varias paginas web para poder practicar la progrmación por bloques:
 *Blockly games:*
 <br>
 Blockly Games es una plataforma educativa en línea creada por Google para enseñar programación a principiantes, especialmente niños y jóvenes, usando programación por bloques. Se basa en Blockly, que es un sistema de bloques visuales que se conectan como piezas de rompecabezas.Permite aprender conceptos de programación como secuencias, bucles, conclydicionales, funciones y eventos sin escribir código tradicional. Aqui hay algunos ejericicos que se puede realizar en Blockly games.
+<br>
 [Ejercicios en Blockly Games](BlocklyGames.md)
 
 <br>
