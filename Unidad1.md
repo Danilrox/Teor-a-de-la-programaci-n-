@@ -113,7 +113,7 @@ NoDeMujeres = (Mujeres/(Mujeres+Hombres))*100
 [Algoritmo en C](Codigo/calculadoraPorcentajes.c)
 
 ---
-- **Tareas entregadas**
+### Tareas entregadas
 
 [Herramientas digitales para pseudocodigo y diagramas de flujo](Herramientasdigitalesparapseudocodigoydiagramasdeflujo.pdf)
 <br>
@@ -133,9 +133,15 @@ Esta actividad tiene como objetivo que el estudiante se familiarice con la herra
 [Cazadores de Bugs](CazadoresdeBugs.pdf)
 <br>
 La presente actividad tiene como objetivo fortalecer las habilidades de detección y corrección de errores (debugging). Estas habilidades se desarrollan en la correccion de algoritmos escritos en pseudocódigo con el fin de facilitar las tareas de correccion de codigo en otros lenguajes de programación. 
-
 <br>
 <br>
+[Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](APE2.pdf)
+<br>
+El propósito de la práctica es desarrollar la capacidad de transformar un problema en una solución computacional, aplicando los conceptos básicos de algoritmos secuenciales, pseudocódigo, diagramas de flujo, pruebas de escritorio para posteriormente pasarlo al lenguaje de programación C.
+<br>
+[Algoritmo en PSelnt](CalculadoraNotas.psc)
+<br>
+[Algoritmo pasado al lenguaje de programación C](CalculadoraNotas.c)
 
 ---
 ### ⚙️ Dificultades en la aplicación de los contenidos
