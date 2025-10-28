@@ -31,15 +31,36 @@ Pilas Bloques es una herramienta gratuita y de código abierto diseñada para en
 
 ---
 
-### Algoritmos, diagramas de flujo y pseudocódigo
+### 🧩 Algoritmos, diagramas de flujo y pseudocódigo
 
-Un algoritmo es un conjunto ordenado  de pasos que se deben seguir para resolver un problema o realizar una tarea. Una forma de escribir un algoritmo es mediante pseudocódigo, el cual usa palabras y estructuras parecidas a un lenguaje de programación pero sin seguir las reglas estrictas de un lenguaje real(como C, python o Java). Sirve planificar un programa antes de escribirlo y ayuda a entender la lógica del problema, sin preocuparse por la sintaxis del lenguaje.
-Para representar nuestro algoritmo de forma grafica usamos un diagrama de flujo donde se muestran los pasos o acciones a seguir mediante figuras geométricas (símbolos) conectadas por flechas.
+**Algoritmo:** es una secuencia de pasos lógicamente ordenados y finitos que dan solución a un problema determinado. Como una receta que indica qué hacer, en qué orden y cómo hacerlo para obtener un resultado. Sus características principales son ser preciso, ordenado, finito, recibir entradas, generar salidas y ser eficiente. Antes de programarlo, se puede representar en pseudocódigo o diagrama de flujo y luego traducirse a un lenguaje de programación como C, Python o Java para que la computadora lo ejecute. Ejemplo:
+<br>
+Algoritmo: Calculadora de Sumas
+Iniciar
+Leer el primer número A
+Leer el segundo número B
+Calcular la suma: S = A + B
+Mostrar "El resultado de la suma es: " + S
+Fin
 
+<br>
+
+**📊 Diagrama de flujo:** Un diagrama de flujo es una representación gráfica de un algoritmo que muestra, mediante símbolos y flechas, el orden y la secuencia de pasos necesarios para resolver un problema o realizar una tarea. 
+**🔹 Símbolos comunes:**
+- 🟢 Óvalo: inicio o fin  
+- ⬛ Rectángulo: instrucción o acción  
+- 🔷 Rombo: decisión (sí/no)  
+- ➡️ Flechas: dirección del flujo
+<br> 
+Se utiliza para visualizar la lógica de un proceso antes de programarlo, facilitar su comprensión y detectar errores o mejoras. En pocas palabras, un diagrama de flujo convierte un algoritmo en un mapa gráfico fácil de seguir.
+
+<br>
+
+**Pseudocódigo:** El pseudocódigo es una forma de representar un algoritmo usando un lenguaje humano mezclado con estructuras de programación, pero sin usar la sintaxis estricta de un lenguaje de programación real. Su objetivo es describir la lógica de un programa de manera clara y comprensible, para que cualquier persona pueda entender los pasos antes de traducirlo a código.
 Para escribir y representar de mejor manera nuestro algoritmo usamos herramientas de algoritmos. Estos son programas con recursos y metodos de diseño especializados en analizar y resolver problemas mediante algoritmos. Un ejemplo de este estas herramientas es PSelnt. 
 <br>
 <br>
-*PSelnt:*
+**PSelnt:**
 <br>
 PSelnt es una  herramienta digital para la construcción y aprendizajes de algoritmos computacionales, el cual tiene un pseudocódigo intuitivo y la posibilidad de visualizarlo como un diagrama de flujo, permitiendo al usuairo la posibilidad de editarlo en ambos formatos. Además el programa puede mostrar los errores del algoritmo y puedes convertirlo a código de varios lenguajes de programación.
 
