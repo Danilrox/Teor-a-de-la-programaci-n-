@@ -1,4 +1,4 @@
-#Actividades en clase Relizadas con PSelnt
+## Actividades en clase Relizadas con PSelnt
 <br>
 <br>
 [Actividad 1](C1.psc)
