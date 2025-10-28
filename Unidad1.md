@@ -36,11 +36,17 @@ Pilas Bloques es una herramienta gratuita y de código abierto diseñada para en
 **Algoritmo:** es una secuencia de pasos lógicamente ordenados y finitos que dan solución a un problema determinado. Como una receta que indica qué hacer, en qué orden y cómo hacerlo para obtener un resultado. Sus características principales son ser preciso, ordenado, finito, recibir entradas, generar salidas y ser eficiente. Antes de programarlo, se puede representar en pseudocódigo o diagrama de flujo y luego traducirse a un lenguaje de programación como C, Python o Java para que la computadora lo ejecute. Ejemplo:
 <br>
 Algoritmo: Calculadora de Sumas
+<br>
 Iniciar
+<br>
 Leer el primer número A
+<br>
 Leer el segundo número B
+<br>
 Calcular la suma: S = A + B
+<br>
 Mostrar "El resultado de la suma es: " + S
+<br>
 Fin
 
 <br>
