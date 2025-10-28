@@ -1,1 +1,15 @@
+#Actividades en clase Relizadas con PSelnt
 
+[Actividad 1](C1.psc)
+[Actividad 2](CalculadoraNotas.psc)
+[Actividad 3](DineroAhorrado.psc)
+[Actividad 4](EstadoDeCuenta.psc)
+[Actividad 5](PermietroAreaRectangulo.psc)
+[Actividad 6](Pulgadas.psc)
+[Actividad 7](areadeuntriangulo.ps)
+[Actividad 8](circuenferencia.psc)
+[Actividad 9](hola_unl.psc)
+[Actividad 10](sueldoDeAsesor.psc)
+[Actividad 11](sumadedosnumeros.psc)
+[Actividad 12](tienda.psc)
+[Actividad 14](volumen de una caja.psc)
