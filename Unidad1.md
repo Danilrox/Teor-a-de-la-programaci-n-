@@ -20,8 +20,6 @@ Blockly Games es una plataforma educativa en l√≠nea creada por Google para ense√
 
 [Ejercicios en Blockly Games](BlocklyGames.md)
 
-
-<br>
 <br>
 <br>
 
