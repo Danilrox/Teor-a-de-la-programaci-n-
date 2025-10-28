@@ -34,7 +34,7 @@ Pilas Bloques es una herramienta gratuita y de código abierto diseñada para en
 ### 🧩 Algoritmos, diagramas de flujo y pseudocódigo
 
 **Algoritmo:** es una secuencia de pasos lógicamente ordenados y finitos que dan solución a un problema determinado. Como una receta que indica qué hacer, en qué orden y cómo hacerlo para obtener un resultado. Sus características principales son ser preciso, ordenado, finito, recibir entradas, generar salidas y ser eficiente. Antes de programarlo, se puede representar en pseudocódigo o diagrama de flujo y luego traducirse a un lenguaje de programación como C, Python o Java para que la computadora lo ejecute. Ejemplo:
-
+<br>
 <br>
 Algoritmo: Calculadora de Sumas
 <br>
@@ -61,6 +61,7 @@ Fin
 <br> 
 Se utiliza para visualizar la lógica de un proceso antes de programarlo, facilitar su comprensión y detectar errores o mejoras. En pocas palabras, un diagrama de flujo convierte un algoritmo en un mapa gráfico fácil de seguir.
 
+<br>
 <br>
 
 **Pseudocódigo:** El pseudocódigo es una forma de representar un algoritmo usando un lenguaje humano mezclado con estructuras de programación, pero sin usar la sintaxis estricta de un lenguaje de programación real. Su objetivo es describir la lógica de un programa de manera clara y comprensible, para que cualquier persona pueda entender los pasos antes de traducirlo a código.
