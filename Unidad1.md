@@ -139,9 +139,9 @@ La presente actividad tiene como objetivo fortalecer las habilidades de detecci�
 <br>
 El propósito de la práctica es desarrollar la capacidad de transformar un problema en una solución computacional, aplicando los conceptos básicos de algoritmos secuenciales, pseudocódigo, diagramas de flujo, pruebas de escritorio para posteriormente pasarlo al lenguaje de programación C.
 <br>
-[Algoritmo en PSelnt](CalculadoraNotas.psc)
+[Algoritmo en PSelnt](Codigo/CalculadoraNotas.psc)
 <br>
-[Algoritmo pasado al lenguaje de programación C](CalculadoraNotas.c)
+[Algoritmo pasado al lenguaje de programación C](Codigo/CalculadoraNotas.c)
 
 ---
 ### ⚙️ Dificultades en la aplicación de los contenidos
