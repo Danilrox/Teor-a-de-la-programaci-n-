@@ -17,12 +17,10 @@ Hay varias paginas web para poder practicar la progrmación por bloques:
 *Blockly games:*
 <br>
 Blockly Games es una plataforma educativa en línea creada por Google para enseñar programación a principiantes, especialmente niños y jóvenes, usando programación por bloques. Se basa en Blockly, que es un sistema de bloques visuales que se conectan como piezas de rompecabezas.Permite aprender conceptos de programación como secuencias, bucles, conclydicionales, funciones y eventos sin escribir código tradicional. Aqui hay algunos ejericicos que se puede realizar en Blockly games.
-
 [Ejercicios en Blockly Games](BlocklyGames.md)
 
 <br>
 <br>
-
 *Pilas Blques:*
 <br>
 Pilas Bloques es una herramienta gratuita y de código abierto diseñada para enseñar programación a niños, niñas y adolescentes mediante programación por bloques. Tiene un enfoque ludico donde los usuarios resuelven desafíos interactivos utilizando bloques visuales que representan instrucciones de programación esto mediante niveles progresivos que van a umentando la dificultad del desafio.
