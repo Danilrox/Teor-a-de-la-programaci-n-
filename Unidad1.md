@@ -93,7 +93,7 @@ PSelnt es una  herramienta digital para la construcción y aprendizajes de algor
 <br>
 [Algoritmo en C](Codigo/presupuestopintura.c)
 <br>
-
+<br>
 **Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay**
 <br>
 -El objetivo de este algoritmo es calcular el porcentaje que hay de hombres y mujeres dependiendo de los valores ingresados para estas dos variables. Para realizarlo se empieza definiendo las variables que en este caso son mujeres y hombres
