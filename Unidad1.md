@@ -78,7 +78,7 @@ PSelnt es una  herramienta digital para la construcción y aprendizajes de algor
 
 ### Ejemplos de Algortimos con estructuras lineales/secuenciales
 <br>
-<br>
+
 **Algoritmo que calcula el presupuesta de pintura dependiendo de los metros cuadrados**
 <br>
 -El objetivo de este algoritmo es definir el presupuesto de la pintura dependiendo de los metros cuadrados que se quiere pintar. Para realizarlo se empieza definiendo las variables que en este caso son: m2 (número de metros cuadrados) y precioMetro2 (se refiere al precio de la pintura por metro cuadrado). 
