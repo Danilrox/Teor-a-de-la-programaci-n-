@@ -79,27 +79,38 @@ PSelnt es una  herramienta digital para la construcción y aprendizajes de algor
 ### Ejemplos de Algortimos con estructuras lineales/secuenciales
 <br>
 <br>
-- *Algoritmo que calcula el presupuesta de pintura dependiendo de los metros cuadrados*
-<img width="604" height="454" alt="image" src="https://github.com/user-attachments/assets/4fa8cdfc-0dbc-48d9-a3a0-be433c3afffd" />
-<img width="725" height="790" alt="image" src="https://github.com/user-attachments/assets/7af18451-c0bf-427a-ba60-484680c4fc09" />
-<img width="531" height="336" alt="image" src="https://github.com/user-attachments/assets/83f37546-9252-4de0-8544-e06e4fd6c131" />
+**Algoritmo que calcula el presupuesta de pintura dependiendo de los metros cuadrados**
 <br>
+-El objetivo de este algoritmo es definir el presupuesto de la pintura dependiendo de los metros cuadrados que se quiere pintar. Para realizarlo se empieza definiendo las variables que en este caso son: m2 (número de metros cuadrados) y precioMetro2 (se refiere al precio de la pintura por metro cuadrado). 
+
+-Una vez definidos los datos, el algoritmo solicita al usuario que ingrse los valores de cuantos metros cuadrados quiere pintar y el precio de la pintura por cada metro cuadrado.
+
+-Para el proceso se utiliza la siguiente formula: Presupuesto <- m2*precioMetro2
+
+-En la salida del programa se imprimira el resultado.
+
+[Algoritmo en PSelnt](Codigo/PresupuestoPintura.psc)
 <br>
-- *Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay*
-<img width="595" height="524" alt="image" src="https://github.com/user-attachments/assets/3311463f-a5a6-455e-b2e7-4529a825be6b" />
-<img width="743" height="781" alt="image" src="https://github.com/user-attachments/assets/fc06491e-8435-4f86-84a2-7b738eceb66b" />
-<img width="598" height="237" alt="image" src="https://github.com/user-attachments/assets/59e3dc46-2c37-4f94-b1ba-b158b1b39fdb" />
-<br>
+[Algoritmo en C](Codigo/presupuestopintura.c)
 <br>
 
-Un algoritmo sirve para planificar los un programa antes de escribirlo y ayuda a entender la lógica del problema. los algoritmos anteriores tambien los podemos pasar a un lenguaje de programación, en este caso "C".
+**Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay**
 <br>
-[Algoritmo que calcula el presupuesta de pintura dependiendo de los metros cuadrados en C](presupuestopintura.c)
+-El objetivo de este algoritmo es calcular el porcentaje que hay de hombres y mujeres dependiendo de los valores ingresados para estas dos variables. Para realizarlo se empieza definiendo las variables que en este caso son mujeres y hombres
+
+-Una vez definidos los datos, el algoritmo solicita al usuario que ingrse los valores de hombres y mujeres.
+
+-Para el proceso se utiliza las siguientes formulas: 
 <br>
+NoDeHombres = (Hombres/(Mujeres+Hombres))*100
 <br>
-[Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay en C](calculadoraPorcentajes.c)
+NoDeMujeres = (Mujeres/(Mujeres+Hombres))*100
+
+-En la salida del programa se imprimira el resultado.
 <br>
+[Algoritmo en PSelnt](Codigo/CalculadoraDePorcentajes.psc)
 <br>
+[Algoritmo en C](Codigo/calculadoraPorcentajes.c)
 
 ---
 - **Tareas entregadas**
@@ -119,7 +130,7 @@ En esta actividad se realizo la instalación del lenguaje de programación C con
 Esta actividad tiene como objetivo que el estudiante se familiarice con la herramienta PSeInt y aprenda a desarrollar su primer algoritmo utilizando estructuras secuenciales básicas. Por lo cual el estudiante crea un algoritmo para resolver el siguiente problema: Un estudiante desea calcular su Índice de Masa Corporal (IMC) para saber si su peso está dentro de lo normal. El trabajo realizado concluye que el pseudocódigo es una herramienta fundamental para aprender lógica de programación, ya que permite comprender la estructura de los algoritmos y facilita la transición hacia lenguajes de alto nivel. 
 <br>
 <br>
-[Cazadores de Bugs]("Cazadores de Bugs".pdf)
+[Cazadores de Bugs](CazadoresdeBugs.pdf)
 <br>
 La presente actividad tiene como objetivo fortalecer las habilidades de detección y corrección de errores (debugging). Estas habilidades se desarrollan en la correccion de algoritmos escritos en pseudocódigo con el fin de facilitar las tareas de correccion de codigo en otros lenguajes de programación. 
 
