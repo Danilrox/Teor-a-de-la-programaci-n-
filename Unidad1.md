@@ -71,6 +71,8 @@ Para escribir y representar de mejor manera nuestro algoritmo usamos herramienta
 **PSelnt:**
 <br>
 PSelnt es una  herramienta digital para la construcción y aprendizajes de algoritmos computacionales, el cual tiene un pseudocódigo intuitivo y la posibilidad de visualizarlo como un diagrama de flujo, permitiendo al usuairo la posibilidad de editarlo en ambos formatos. Además el programa puede mostrar los errores del algoritmo y puedes convertirlo a código de varios lenguajes de programación.
+<br>
+[Ejercicios realizados con PSelnt](EjerciciosEnClaseConPSelnt.md)
 
 ---
 
