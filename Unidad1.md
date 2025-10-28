@@ -26,6 +26,7 @@ Blockly Games es una plataforma educativa en línea creada por Google para ense�
 <br>
 Pilas Bloques es una herramienta gratuita y de código abierto diseñada para enseñar programación a niños, niñas y adolescentes mediante programación por bloques. Tiene un enfoque ludico donde los usuarios resuelven desafíos interactivos utilizando bloques visuales que representan instrucciones de programación esto mediante niveles progresivos que van a umentando la dificultad del desafio.
 <br>
+
 [Ejercicios en Pilas Bloques](PilasBloques.md)
 
 ---
