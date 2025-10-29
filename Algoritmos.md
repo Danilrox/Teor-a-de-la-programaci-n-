@@ -22,12 +22,22 @@ Fin
 
 **🔹 Símbolos comunes:**
 - 🟢 Óvalo: inicio o fin  
-- ⬛ Rectángulo: instrucción o acción  
+- ⬛ Rectángulo: instrucción o acción
+- Paralelogramo: Datos
 - 🔷 Rombo: decisión (sí/no)  
 - ➡️ Flechas: dirección del flujo
 - Ejemplo de diagrama de flujo:
 <img width="400" height="768" alt="image" src="https://github.com/user-attachments/assets/bbe95765-47cb-4b31-935b-f8eb2a71714a" />
 <br>
+
+- Este es un diagrama de fluho de un algortimo que calcula el area y perimetro de un rectangulo.
+- El primer ovalo 🟢 representa el inicio del algoritmo.
+- Los 2 siguientes rectangulos ⬛  respresentan el siguiente paso del algoritmo que es definir los datos, para esto usamos los 2 rectangulos que definen las variables de nuestro algoritmo (base y altura) como reales (abarca a los números decimales). 
+-Los paralelogramos representan a los datos de entrada, que son los que va a ingresar el usuario, en este caso base y altura para que ela algoritmo los pueda scanear y los alamcene en sus respectivas variables.
+- Los siguientes rectangulos ⬛ son el proceso para calcular la respuesta para esta caso aplica las formulas matematicas de area y perimetro de un rectangulo.
+- Por ultimo estan los 2 siguientes paralelogramos que representan los datos de salida o la respuesta final.
+- El ultimo ovalo 🟢 representa el fin del algoritmo.
+- El orden de las instrucciones y la direccion del flujo estan representados por las flechas ➡️. 
 <br>
 
 **🔢 Pseudocódigo:** El pseudocódigo es una forma de representar un algoritmo usando un lenguaje humano mezclado con estructuras de programación, pero sin usar la sintaxis estricta de un lenguaje de programación real. Su objetivo es describir la lógica de un programa de manera clara y comprensible, para que cualquier persona pueda entender los pasos antes de traducirlo a código.
@@ -37,5 +47,6 @@ Para escribir y representar de mejor manera nuestro algoritmo usamos herramienta
 **💻 PSelnt:**
 <br>
 PSelnt es una  herramienta digital para la construcción y aprendizajes de algoritmos computacionales, el cual tiene un pseudocódigo intuitivo y la posibilidad de visualizarlo como un diagrama de flujo, permitiendo al usuairo la posibilidad de editarlo en ambos formatos. Además el programa puede mostrar los errores del algoritmo y puedes convertirlo a código de varios lenguajes de programación. Ejemplo de psudocódigo en PSelnt:
+<br>
 <img width="436" height="425" alt="image" src="https://github.com/user-attachments/assets/e6d81cb0-156f-4d47-9da5-a1fb1c7dc201" />
 
