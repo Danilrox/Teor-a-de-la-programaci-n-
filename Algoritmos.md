@@ -33,8 +33,8 @@ Fin
 - Este es un diagrama de fluho de un algortimo que calcula el area y perimetro de un rectangulo.
 - El primer ovalo 🟢 representa el inicio del algoritmo.
 - Los 2 siguientes rectangulos ⬛  respresentan la instruccion de definicion de datos: Definir base y altura como reales (que abarca a los números decimales). 
-- Los paralelogramos representan a los datos de entrada, que son los que va a ingresar el usuario, en este caso base y altura para que ela algoritmo los pueda scanear y los alamcene en sus respectivas variables.
-- Los siguientes rectangulos ⬛ son el proceso para calcular la respuesta para esta caso aplica las formulas matematicas de area y perimetro de un rectangulo.
+- Los paralelogramos representan a los datos de entrada, que son los que va a ingresar el usuario, en este caso son las variables de base y altura, que posteriormente el algoritmova scanear y los alamcenara en sus respectivas variables.
+- Los siguientes rectangulos ⬛ son el proceso para calcular la respuesta. Para esta caso aplica las formulas matematicas de area y perimetro de un rectangulo.
 - Por ultimo estan los 2 siguientes paralelogramos que representan los datos de salida o la respuesta final.
 - El ultimo ovalo 🟢 representa el fin del algoritmo.
 - El orden de las instrucciones y la direccion del flujo estan representados por las flechas ➡️. 
