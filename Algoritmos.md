@@ -25,8 +25,7 @@ Fin
 - ⬛ Rectángulo: instrucción o acción  
 - 🔷 Rombo: decisión (sí/no)  
 - ➡️ Flechas: dirección del flujo
-<br>
-Ejemplo de diagrama de flujo:
+- Ejemplo de diagrama de flujo:
 <img width="400" height="768" alt="image" src="https://github.com/user-attachments/assets/bbe95765-47cb-4b31-935b-f8eb2a71714a" />
 <br>
 Se utiliza para visualizar la lógica de un proceso antes de programarlo, facilitar su comprensión y detectar errores o mejoras. En pocas palabras, un diagrama de flujo convierte un algoritmo en un mapa gráfico fácil de seguir.
