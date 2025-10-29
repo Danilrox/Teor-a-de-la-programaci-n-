@@ -1,9 +1,6 @@
 ## Actividades en clase Relizadas con PSelnt
 <br>
 
-[Volver a la anterior pestaña](Teoria-de-la-programacion/Unidad1.md)
-<br>
-<br>
 [Actividad 2](CalculadoraNotas.psc)
 <br>
 [Actividad 3](DineroAhorrado.psc)
