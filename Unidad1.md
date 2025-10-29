@@ -5,7 +5,7 @@ En esta unidad se abordan los conceptos básicos de la programación, los algori
 ---
 ## 📘 Contenidos de la Unidad
 
-### Programación por bloques
+### 🧱 Programación por bloques
 
 La programación por bloques es un tipo de programación donde los programas se crean arrastrando y conectando bloques visuales en lugar de escribir líneas de código.
 Cada bloque representa una instrucción, acción o estructura (como bucles, decisiones, variables).
@@ -14,7 +14,7 @@ Se usa mucho en educación como una forma de aprendizaje para los conceptos basi
 Hay varias paginas web para poder practicar la progrmación por bloques:
 <br>
 <br>
-*Blockly games:*
+**Blockly games:**
 <br>
 Blockly Games es una plataforma educativa en línea creada por Google para enseñar programación a principiantes, especialmente niños y jóvenes, usando programación por bloques. Se basa en Blockly, que es un sistema de bloques visuales que se conectan como piezas de rompecabezas.Permite aprender conceptos de programación como secuencias, bucles, conclydicionales, funciones y eventos sin escribir código tradicional. Aqui hay algunos ejericicos que se puede realizar en Blockly games.
 <br>
@@ -22,7 +22,8 @@ Blockly Games es una plataforma educativa en línea creada por Google para ense�
 
 <br>
 <br>
-*Pilas Blques:*
+
+**Pilas Blques:**
 <br>
 Pilas Bloques es una herramienta gratuita y de código abierto diseñada para enseñar programación a niños, niñas y adolescentes mediante programación por bloques. Tiene un enfoque ludico donde los usuarios resuelven desafíos interactivos utilizando bloques visuales que representan instrucciones de programación esto mediante niveles progresivos que van a umentando la dificultad del desafio.
 <br>
@@ -33,7 +34,7 @@ Pilas Bloques es una herramienta gratuita y de código abierto diseñada para en
 
 ### 🧩 Algoritmos, diagramas de flujo y pseudocódigo
 
-**Algoritmo:** es una secuencia de pasos lógicamente ordenados y finitos que dan solución a un problema determinado. Como una receta que indica qué hacer, en qué orden y cómo hacerlo para obtener un resultado. Sus características principales son ser preciso, ordenado, finito, recibir entradas, generar salidas y ser eficiente. Antes de programarlo, se puede representar en pseudocódigo o diagrama de flujo y luego traducirse a un lenguaje de programación como C, Python o Java para que la computadora lo ejecute. Ejemplo:
+**🤖 Algoritmo:** es una secuencia de pasos lógicamente ordenados y finitos que dan solución a un problema determinado. Como una receta que indica qué hacer, en qué orden y cómo hacerlo para obtener un resultado. Sus características principales son ser preciso, ordenado, finito, recibir entradas, generar salidas y ser eficiente. Antes de programarlo, se puede representar en pseudocódigo o diagrama de flujo y luego traducirse a un lenguaje de programación como C, Python o Java para que la computadora lo ejecute. Ejemplo:
 <br>
 <br>
 Algoritmo: Calculadora de Sumas
@@ -64,11 +65,11 @@ Se utiliza para visualizar la lógica de un proceso antes de programarlo, facili
 <br>
 <br>
 
-**Pseudocódigo:** El pseudocódigo es una forma de representar un algoritmo usando un lenguaje humano mezclado con estructuras de programación, pero sin usar la sintaxis estricta de un lenguaje de programación real. Su objetivo es describir la lógica de un programa de manera clara y comprensible, para que cualquier persona pueda entender los pasos antes de traducirlo a código.
+**🔢 Pseudocódigo:** El pseudocódigo es una forma de representar un algoritmo usando un lenguaje humano mezclado con estructuras de programación, pero sin usar la sintaxis estricta de un lenguaje de programación real. Su objetivo es describir la lógica de un programa de manera clara y comprensible, para que cualquier persona pueda entender los pasos antes de traducirlo a código.
 Para escribir y representar de mejor manera nuestro algoritmo usamos herramientas de algoritmos. Estos son programas con recursos y metodos de diseño especializados en analizar y resolver problemas mediante algoritmos. Un ejemplo de este estas herramientas es PSelnt. 
 <br>
 <br>
-**PSelnt:**
+**💻 PSelnt:**
 <br>
 PSelnt es una  herramienta digital para la construcción y aprendizajes de algoritmos computacionales, el cual tiene un pseudocódigo intuitivo y la posibilidad de visualizarlo como un diagrama de flujo, permitiendo al usuairo la posibilidad de editarlo en ambos formatos. Además el programa puede mostrar los errores del algoritmo y puedes convertirlo a código de varios lenguajes de programación.
 <br>
@@ -76,7 +77,7 @@ PSelnt es una  herramienta digital para la construcción y aprendizajes de algor
 
 ---
 
-### Ejemplos de Algortimos con estructuras lineales/secuenciales
+### 🎯 Ejemplos de Algortimos con estructuras lineales/secuenciales
 <br>
 
 **Algoritmo que calcula el presupuesta de pintura dependiendo de los metros cuadrados**
@@ -113,7 +114,7 @@ NoDeMujeres = (Mujeres/(Mujeres+Hombres))*100
 [Algoritmo en C](Codigo/calculadoraPorcentajes.c)
 
 ---
-### Tareas entregadas
+### 🎓💡Tareas entregadas
 
 [Herramientas digitales para pseudocodigo y diagramas de flujo](Herramientasdigitalesparapseudocodigoydiagramasdeflujo.pdf)
 <br>
