@@ -19,6 +19,7 @@ Fin
 
 <br>
 **📊 Diagrama de flujo:** Un diagrama de flujo es una representación gráfica de un algoritmo que muestra, mediante símbolos y flechas, el orden y la secuencia de pasos necesarios para resolver un problema o realizar una tarea. Se utiliza para visualizar la lógica de un proceso antes de programarlo, facilitar su comprensión y detectar errores o mejoras. En pocas palabras, un diagrama de flujo convierte un algoritmo en un mapa gráfico fácil de seguir.
+
 **🔹 Símbolos comunes:**
 - 🟢 Óvalo: inicio o fin  
 - ⬛ Rectángulo: instrucción o acción  
