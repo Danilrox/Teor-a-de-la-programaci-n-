@@ -1,4 +1,5 @@
 ## Ejercicios en BloclyGames:
+### [Volver a programacion por bloques](Programacionporbloques.md)
 En el primero ejercicio, la pagina web nos da los bloques con las instrucciones y el usuario tiene que unirlos de una forma lógica para que el personaje pueda superar el laberinto. 
 Para el ejercicio de la captura se ha unido los bloques con la siguiente secuencia: avanzar -> girar a la izquierda -> avanzar -> girar a la derecha -> avanzar. De esta manera el muñeco de la pantalla podra llegar a su destino.
 <img width="1582" height="730" alt="image" src="https://github.com/user-attachments/assets/d1d52ad0-472f-41d7-b619-ac35c30129ef" />
