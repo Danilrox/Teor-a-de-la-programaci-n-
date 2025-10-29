@@ -1,6 +1,6 @@
 ## Ejercicios en Pilas Blques
 ### [Volver a programacion por bloques](Programacionporbloques.md)
-<br>
+
 El bojetivo de este primer ejercicio es que el tigre logre comer la porcion de carne que esta delante de el. Para realizarlo hay que poner las intrucciones dentro del bloque "Al empezar a ejecutar". Primero pondremos 3 bloques de "Mover a a la derecha" ya que por cada uno de estos bloques el tigre se movera una casilla y por ulitmo cuando el tigre llegue a la casilla de la carne hay que darle la instruccion de "comer churrasco" para que se alimente de la carne.
 <img width="1600" height="729" alt="image" src="https://github.com/user-attachments/assets/8f09893c-feae-4821-9be8-1300b6f3636d" />
 <br>
