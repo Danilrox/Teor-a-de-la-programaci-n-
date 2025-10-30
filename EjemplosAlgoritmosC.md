@@ -68,12 +68,16 @@ return 0;
 - Finalemente con el siguiente comando se va imprimir la respuesta en la terminal: printf("tu presupuesto es de %d dolares", presupuesto);
 - Para declarar que el programa terminó se escribe return 0; al final del codigo de la funcion int main().
 <br>
-**Version en lenguaje de programación C**
+**Resultado de la terminal de C**
+<br>
+<img width="770" height="173" alt="image" src="https://github.com/user-attachments/assets/9d610236-2525-4f43-a9bc-8dcc5df98eab" />
 <br>
 **Prueba de escritorio**
 <br>
+<img width="756" height="195" alt="image" src="https://github.com/user-attachments/assets/3fd629ce-e8de-41a6-bb3d-0c2623d57c12" />
 
-**Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay**
+
+### Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay
 <br>
 -El objetivo de este algoritmo es calcular el porcentaje que hay de hombres y mujeres dependiendo de los valores ingresados para estas dos variables. Para realizarlo se empieza definiendo las variables que en este caso son mujeres y hombres
 
