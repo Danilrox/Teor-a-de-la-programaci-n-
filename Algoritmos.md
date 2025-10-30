@@ -30,7 +30,7 @@ Fin
 <img width="400" height="768" alt="image" src="https://github.com/user-attachments/assets/bbe95765-47cb-4b31-935b-f8eb2a71714a" />
 <br>
 
-- Este es un diagrama de fluho de un algortimo que calcula el area y perimetro de un rectangulo.
+- Este es un diagrama de flujo de un algortimo que calcula el area y perimetro de un rectangulo.
 - El primer ovalo 🟢 representa el inicio del algoritmo.
 - Los 2 siguientes rectangulos ⬛  respresentan la instruccion de definicion de datos: Definir base y altura como reales (que abarca a los números decimales). 
 - Los paralelogramos representan a los datos de entrada, que son los que va a ingresar el usuario, en este caso son las variables de base y altura, que posteriormente el algoritmova scaneara y los alamcenara en sus respectivas variables.
@@ -44,10 +44,21 @@ Fin
 Para escribir y representar de mejor manera nuestro algoritmo usamos herramientas de algoritmos. Estos son programas con recursos y metodos de diseño especializados en analizar y resolver problemas mediante algoritmos. Un ejemplo de este estas herramientas es PSelnt. 
 <br>
 <br>
-**💻 PSelnt:**
-<br>
-PSelnt es una  herramienta digital para la construcción y aprendizajes de algoritmos computacionales, el cual tiene un pseudocódigo intuitivo y la posibilidad de visualizarlo como un diagrama de flujo, permitiendo al usuairo la posibilidad de editarlo en ambos formatos. Además el programa puede mostrar los errores del algoritmo y puedes convertirlo a código de varios lenguajes de programación. Ejemplo de psudocódigo en PSelnt:
+**💻 PSelnt:** PSelnt es una  herramienta digital para la construcción y aprendizajes de algoritmos computacionales, el cual tiene un pseudocódigo intuitivo y la posibilidad de visualizarlo como un diagrama de flujo, permitiendo al usuairo la posibilidad de editarlo en ambos formatos. Además el programa puede mostrar los errores del algoritmo y puedes convertirlo a código de varios lenguajes de programación. Ejemplo de psudocódigo en PSelnt:
 <br>
 <img width="436" height="425" alt="image" src="https://github.com/user-attachments/assets/e6d81cb0-156f-4d47-9da5-a1fb1c7dc201" />
+<br>
+
+- Este es el mismo algortimo que analizamos en el diagrama de flujo. Su objetivo es calcular el area y el perimtero de un rectangulo dependiendo de la base y la altura que ingrese el usuario.
+- El primer paso del algoritmo  es definir las variables: definir base y altura como real.
+- El siguiente paso de nuestro pseudocodigo es scanear los valores y alamacenarlos en sus respectivos valores para esto usamos los siguientes comandos:
+
+```
+  Escribir 'Ingrese valor de la base'
+	Leer base
+	Escribir 'Ingrese valor de la altura'
+	Leer altura```
+- 
+
 
 
