@@ -33,7 +33,7 @@ Fin
 - Este es un diagrama de fluho de un algortimo que calcula el area y perimetro de un rectangulo.
 - El primer ovalo 🟢 representa el inicio del algoritmo.
 - Los 2 siguientes rectangulos ⬛  respresentan la instruccion de definicion de datos: Definir base y altura como reales (que abarca a los números decimales). 
-- Los paralelogramos representan a los datos de entrada, que son los que va a ingresar el usuario, en este caso son las variables de base y altura, que posteriormente el algoritmova scanear y los alamcenara en sus respectivas variables.
+- Los paralelogramos representan a los datos de entrada, que son los que va a ingresar el usuario, en este caso son las variables de base y altura, que posteriormente el algoritmova scaneara y los alamcenara en sus respectivas variables.
 - Los siguientes rectangulos ⬛ son el proceso para calcular la respuesta. Para esta caso aplica las formulas matematicas de area y perimetro de un rectangulo.
 - Por ultimo estan los 2 siguientes paralelogramos que representan los datos de salida o la respuesta final.
 - El ultimo ovalo 🟢 representa el fin del algoritmo.
@@ -49,4 +49,5 @@ Para escribir y representar de mejor manera nuestro algoritmo usamos herramienta
 PSelnt es una  herramienta digital para la construcción y aprendizajes de algoritmos computacionales, el cual tiene un pseudocódigo intuitivo y la posibilidad de visualizarlo como un diagrama de flujo, permitiendo al usuairo la posibilidad de editarlo en ambos formatos. Además el programa puede mostrar los errores del algoritmo y puedes convertirlo a código de varios lenguajes de programación. Ejemplo de psudocódigo en PSelnt:
 <br>
 <img width="436" height="425" alt="image" src="https://github.com/user-attachments/assets/e6d81cb0-156f-4d47-9da5-a1fb1c7dc201" />
+
 
