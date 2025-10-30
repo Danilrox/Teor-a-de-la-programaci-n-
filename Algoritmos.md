@@ -54,11 +54,20 @@ Para escribir y representar de mejor manera nuestro algoritmo usamos herramienta
 - El siguiente paso de nuestro pseudocodigo es scanear los valores y alamacenarlos en sus respectivos valores para esto usamos los siguientes comandos:
 
 ```
-  Escribir 'Ingrese valor de la base'
-	Leer base
-	Escribir 'Ingrese valor de la altura'
-	Leer altura```
-- 
-
-
+	Escribir "Ingrese valor de la base"   ---> Mensaje que ve el usuario para ingrese el valor de la base
+	Leer base 							  ---> El algoritmo lee el valor y lo almacena en la variable base
+	Escribir "Ingrese valor de la altura" ---> Mensaje que ve el usuario para que ingrese el valor de la altura
+	Leer altura                           ---> El algoritmo lee el valor y lo alamcena en la variable altura
+```
+- Ahora el algoritmo aplica las formulas matematicas de area y perimetro para encontrar las respuestas con los siguientes comandos:
+```
+	Perimetro = 2*base+2*altura
+	Area = base*altura	
+```
+- Una vez obtenidos los resultados de perimetro y area estos resultados se imprimiran en la consola con el siguiente comando:
+```
+	Escribir 'El valor del perimetro es: ', Perimetro
+	Escribir 'El valor del Area es: ', Area
+FinAlgoritmo
+```
 
