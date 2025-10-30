@@ -66,12 +66,13 @@ return 0;
 - Ahora el programa solicita al usuario que ingrse los valores de cuantos metros cuadrados quiere pintar y el precio de la pintura por cada metro cuadrado. El programa va alamecenar los valores en sus respectivas variables.
 - Para encontra el presupuesto se utiliza la siguiente formula: presupuesto = m2 * precio_metro2;
 - Finalemente con el siguiente comando se va imprimir la respuesta en la terminal: printf("tu presupuesto es de %d dolares", presupuesto);
-- Para declarar que el programa terminó se escribe return 0; al final del codigo de la funcion int main()
-[Algoritmo en PSelnt](Codigo/PresupuestoPintura.psc)
+- Para declarar que el programa terminó se escribe return 0; al final del codigo de la funcion int main().
 <br>
-[Algoritmo en C](Codigo/presupuestopintura.c)
+**Version en lenguaje de programación C**
 <br>
+**Prueba de escritorio**
 <br>
+
 **Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay**
 <br>
 -El objetivo de este algoritmo es calcular el porcentaje que hay de hombres y mujeres dependiendo de los valores ingresados para estas dos variables. Para realizarlo se empieza definiendo las variables que en este caso son mujeres y hombres
