@@ -68,7 +68,9 @@ return 0;
 - Finalemente con el siguiente comando se va imprimir la respuesta en la terminal: printf("tu presupuesto es de %d dolares", presupuesto);
 - Para declarar que el programa terminó se escribe return 0; al final del codigo de la funcion int main().
 <br>
+
 **Resultado de la terminal de C**
+
 <br>
 <img width="770" height="173" alt="image" src="https://github.com/user-attachments/assets/9d610236-2525-4f43-a9bc-8dcc5df98eab" />
 <br>
