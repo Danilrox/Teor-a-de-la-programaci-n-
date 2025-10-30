@@ -51,7 +51,7 @@ Para escribir y representar de mejor manera nuestro algoritmo usamos herramienta
 
 - Este es el mismo algortimo que analizamos en el diagrama de flujo. Su objetivo es calcular el area y el perimtero de un rectangulo dependiendo de la base y la altura que ingrese el usuario.
 - El primer paso del algoritmo  es definir las variables: definir base y altura como real.
-- El siguiente paso de nuestro pseudocodigo es scanear los valores y alamacenarlos en sus respectivos valores para esto usamos los siguientes comandos:
+- El siguiente paso de nuestro pseudocodigo es scanear los valores y alamacenarlos en sus respectivas varaiables. Para esto usamos los siguientes comandos:
 
 ```
 	Escribir "Ingrese valor de la base"   ---> Mensaje que ve el usuario para ingrese el valor de la base
@@ -59,12 +59,12 @@ Para escribir y representar de mejor manera nuestro algoritmo usamos herramienta
 	Escribir "Ingrese valor de la altura" ---> Mensaje que ve el usuario para que ingrese el valor de la altura
 	Leer altura                           ---> El algoritmo lee el valor y lo alamcena en la variable altura
 ```
-- Ahora el algoritmo aplica las formulas matematicas de area y perimetro para encontrar las respuestas con los siguientes comandos:
+- Ahora el algoritmo aplica las formulas matematicas de area y perimetro para encontrar las respuestas. Para esto usamos las siguientes lineas de pseudocódigo:
 ```
 	Perimetro = 2*base+2*altura
 	Area = base*altura	
 ```
-- Una vez obtenidos los resultados de perimetro y area estos resultados se imprimiran en la consola con el siguiente comando:
+- Una vez obtenidos los resultados de perimetro y area, estos resultados se imprimiran en la consola con las siguientes lineas de pseudocódigo:
 ```
 	Escribir 'El valor del perimetro es: ', Perimetro
 	Escribir 'El valor del Area es: ', Area
