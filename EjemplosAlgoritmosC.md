@@ -112,7 +112,9 @@ NoDeHombres = (Hombres/(Mujeres+Hombres))*100
 NoDeMujeres = (Mujeres/(Mujeres+Hombres))*100
 - En la salida del programa se imprimira el resultado.
 <br>
+
 **Resultado de la terminal de PSelnt**
+
 <br>
 <img width="350" height="189" alt="image" src="https://github.com/user-attachments/assets/09e8614b-dbe9-403d-b0a0-fe7a58d69a14" />
 <br>
@@ -153,6 +155,7 @@ PorcentajeHombres y PorcentajesMujeres: almacenarán los porcentajes calculados.
 - Se pide al usuario que ingrese el número de hombres y se guarda en la variable Hombres.
 - Se calcula los procenatajes con sus respectivas formulas.
 - Se imprimen los porcentajes calculados con dos decimales (%.2f) en la terminal de C.
+<br>
 
 **Resultado de la terminal de C**
 <br>
