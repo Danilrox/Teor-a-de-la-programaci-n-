@@ -148,10 +148,8 @@ return 0;
 - Se incluye la librería estándar (stdio.h) de entrada y salida para poder usar funciones como printf() y scanf().
 - Se incluye la funcion principal del programa int main(), dentro de esta funcion se escribira el código del programa.
 - Se declaran variables de tipo float (números con decimales):
-<br>
-Hombres y Mujeres: almacenarán el número de hombres y mujeres.
-<br>
-PorcentajeHombres y PorcentajesMujeres: almacenarán los porcentajes calculados.
+- Hombres y Mujeres: almacenarán el número de hombres y mujeres.
+- PorcentajeHombres y PorcentajesMujeres: almacenarán los porcentajes calculados.
 - El programa muestra un mensaje pidiendo al usuario que ingrese el número de mujeres y luego guarda ese valor en la variable Mujeres.
 - Se pide al usuario que ingrese el número de hombres y se guarda en la variable Hombres.
 - Se calcula los procenatajes con sus respectivas formulas.
