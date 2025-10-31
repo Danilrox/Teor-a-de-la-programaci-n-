@@ -156,6 +156,7 @@ PorcentajeHombres y PorcentajesMujeres: almacenarán los porcentajes calculados.
 - Se calcula los procenatajes con sus respectivas formulas.
 - Se imprimen los porcentajes calculados con dos decimales (%.2f) en la terminal de C.
 <br>
+<br>
 
 **Resultado de la terminal de C**
 <br>
