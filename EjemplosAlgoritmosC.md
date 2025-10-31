@@ -80,20 +80,86 @@ return 0;
 
 
 ### Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay
-<br>
--El objetivo de este algoritmo es calcular el porcentaje que hay de hombres y mujeres dependiendo de los valores ingresados para estas dos variables. Para realizarlo se empieza definiendo las variables que en este caso son mujeres y hombres
-
--Una vez definidos los datos, el algoritmo solicita al usuario que ingrse los valores de hombres y mujeres.
-
--Para el proceso se utiliza las siguientes formulas: 
+```
+Algoritmo CalculadoraDePorcentajes
+	//Definir datos
+	Definir Mujeres Como Entero
+	Definir Hombres Como Entero
+	
+	//Datos de entrada 
+	Escribir "Escribe número de mujeres"
+	Leer Mujeres
+	Escribir  "Escribe número de hombres"
+	Leer Hombres 
+	
+	//Proceso
+	NoDeHombres = (Hombres/(Mujeres+Hombres))*100
+	NoDeMujeres = (Mujeres/(Mujeres+Hombres))*100
+	
+	//Datos de salida 
+	Escribir "El porcentaje de mujeres es del: ", NoDeMujeres "%"; 
+	Escribir "El porcentaje de hombres es del: ", NoDeHombres "%";  
+	
+FinAlgoritmo
+```
+- El objetivo de este algoritmo es calcular el porcentaje que hay de hombres y mujeres dependiendo de los valores ingresados para estas dos variables. 
+- Para realizarlo se empieza definiendo las variables que en este caso son mujeres y hombres.
+- Una vez definidos los datos, el algoritmo solicita al usuario que ingrse los valores de hombres y mujeres. El algoritmo los lee y los guarda en sus respectivas variables.
+- Para el proceso se utiliza las siguientes formulas:
 <br>
 NoDeHombres = (Hombres/(Mujeres+Hombres))*100
 <br>
 NoDeMujeres = (Mujeres/(Mujeres+Hombres))*100
+- En la salida del programa se imprimira el resultado.
 
--En la salida del programa se imprimira el resultado.
+**Resultado de la terminal de PSelnt**
+<img width="350" height="189" alt="image" src="https://github.com/user-attachments/assets/09e8614b-dbe9-403d-b0a0-fe7a58d69a14" />
+
+**Version en lenguaje de programación C**
+```
+#include <stdio.h>
+//Calculadora de Porcentajes
+
+int main(){
+
+float Hombres, Mujeres; 
+float PorcentajeHombres, PorcentajesMujeres;
+
+printf("Escribe numero de mujeres\n");
+scanf("%f",&Mujeres);
+
+printf("Escribe numero de hombres\n");
+scanf("%f", &Hombres);
+
+PorcentajesMujeres = (Hombres/(Mujeres+Hombres))*100;
+PorcentajeHombres = (Mujeres/(Mujeres+Hombres))*100;
+
+printf("El porcentaje de mujeres es del %.2f porciento \n", PorcentajesMujeres);
+printf("El porcentaje de hombres es del %.2f porciento", PorcentajeHombres);
+
+return 0;
+}
+```
+- Se incluye la librería estándar (stdio.h) de entrada y salida para poder usar funciones como printf() y scanf().
+- Se incluye la funcion principal del programa int main(), dentro de esta funcion se escribira el código del programa.
+- Se declaran variables de tipo float (números con decimales):
 <br>
-[Algoritmo en PSelnt](Codigo/CalculadoraDePorcentajes.psc)
+Hombres y Mujeres: almacenarán el número de hombres y mujeres.
 <br>
-[Algoritmo en C](Codigo/calculadoraPorcentajes.c)
+PorcentajeHombres y PorcentajesMujeres: almacenarán los porcentajes calculados.
+- El programa muestra un mensaje pidiendo al usuario que ingrese el número de mujeres y luego guarda ese valor en la variable Mujeres.
+- Se pide al usuario que ingrese el número de hombres y se guarda en la variable Hombres.
+- Se calcula los procenatajes con sus respectivas formulas.
+- Se imprimen los porcentajes calculados con dos decimales (%.2f) en la terminal de C.
+
+**Resultado de la terminal de C**
+<br>
+<img width="969" height="153" alt="image" src="https://github.com/user-attachments/assets/6dd1c0a7-ebea-4680-9529-49948cfcdc30" />
+
+<br>
+
+**Prueba de escritorio**
+<img width="1084" height="146" alt="image" src="https://github.com/user-attachments/assets/27ed34c3-663f-4357-b2bc-cb00fa611e1d" />
+
+
 
