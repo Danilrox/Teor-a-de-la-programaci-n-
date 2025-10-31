@@ -111,10 +111,11 @@ NoDeHombres = (Hombres/(Mujeres+Hombres))*100
 <br>
 NoDeMujeres = (Mujeres/(Mujeres+Hombres))*100
 - En la salida del programa se imprimira el resultado.
-
+<br>
 **Resultado de la terminal de PSelnt**
+<br>
 <img width="350" height="189" alt="image" src="https://github.com/user-attachments/assets/09e8614b-dbe9-403d-b0a0-fe7a58d69a14" />
-
+<br>
 **Version en lenguaje de programación C**
 ```
 #include <stdio.h>
