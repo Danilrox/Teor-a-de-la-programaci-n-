@@ -1,5 +1,5 @@
 ## 🎓💡Tareas entregadas
-### [Volver a Unidad 1](Tareasentregadas/APE1TeoriaDeLaProgramacion.pdf)
+### [Volver a Unidad 1](Unidad1.md)
 [Herramientas digitales para pseudocodigo y diagramas de flujo](Herramientasdigitalesparapseudocodigoydiagramasdeflujo.pdf)
 <br>
 En esta actividad se realizo un diseño de algoritmo representado en pseudocódigo y en diagrama de flujo utilizando la herramienta digital PSelnt. Mediante un informe se explica como funciona este algoritmo y que pasos sigue para desarrollarlo. Ademas se describe a la herramienta dando a conocer sus caracterisitcas, usos y limitaciones. Se concluye que a pesar de que esta herramienta tiene pocas funciones y carece de componentes gráficos en comparación con otros lenguajes de programación. Pselnt sobresale en el aparatado educativo. 
