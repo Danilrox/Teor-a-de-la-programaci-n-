@@ -84,7 +84,9 @@ return 0;
 ### Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay
 **Prueba de escritorio**
 <img width="1084" height="146" alt="image" src="https://github.com/user-attachments/assets/27ed34c3-663f-4357-b2bc-cb00fa611e1d" />
+<br>
 
+**Version de PSelnt**
 ```
 Algoritmo CalculadoraDePorcentajes
 	//Definir datos
