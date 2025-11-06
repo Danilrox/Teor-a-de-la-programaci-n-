@@ -1,4 +1,4 @@
-## Bibliografia 
+## 📚 Bibliografia 
 - PSelnt, 2003-2025. [Online]. Available: https://pseint.sourceforge.net/
 <br>
 
