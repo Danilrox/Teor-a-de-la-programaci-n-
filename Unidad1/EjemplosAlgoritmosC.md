@@ -1,6 +1,11 @@
 ## 🎯 Ejemplos de Algortimos con estructuras lineales/secuenciales
 ### [Volver a Unidad 1](Unidad1.md)
 ### Algoritmo que calcula el presupuesta de pintura dependiendo de los metros cuadrados
+**Prueba de escritorio**
+<br>
+<img width="756" height="195" alt="image" src="https://github.com/user-attachments/assets/3fd629ce-e8de-41a6-bb3d-0c2623d57c12" />
+<br>
+
 **Version de PSelnt**
 ```
 Algoritmo PermietroAreaRectangulo
@@ -73,11 +78,6 @@ return 0;
 <br>
 <img width="770" height="173" alt="image" src="https://github.com/user-attachments/assets/9d610236-2525-4f43-a9bc-8dcc5df98eab" />
 <br>
-
-**Prueba de escritorio**
-<br>
-<img width="756" height="195" alt="image" src="https://github.com/user-attachments/assets/3fd629ce-e8de-41a6-bb3d-0c2623d57c12" />
-
 
 ### Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay
 ```
