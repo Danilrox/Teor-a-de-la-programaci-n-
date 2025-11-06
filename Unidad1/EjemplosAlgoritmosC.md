@@ -34,6 +34,8 @@ FinAlgoritmo
 - Una vez definidos los datos, el algoritmo solicita al usuario que ingrse los valores de cuantos metros cuadrados quiere pintar y el precio de la pintura por cada metro cuadrado.
 - Para el proceso se utiliza la siguiente formula: Presupuesto <- m2*precioMetro2
 - En la salida del programa se imprimira el resultado.
+<br>
+
 **Resultado de la terminal de PSelnt**
 <img width="316" height="177" alt="image" src="https://github.com/user-attachments/assets/4de7a1bf-244b-42b1-9eb2-201c411ba857" />
 
