@@ -40,4 +40,7 @@ Aquí se incluyen resúmenes teóricos, prácticas, programas elaborados en C y 
 [Unidad 3](Unidad3.md)
 <br>
 <br>
+[Bibliografía](Bibliografia.md)
+<br>
+<br>
 [Conclusiones generales](Conclusiones.md)
