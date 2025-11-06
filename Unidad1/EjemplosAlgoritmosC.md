@@ -37,8 +37,8 @@ FinAlgoritmo
 <br>
 
 **Resultado de la terminal de PSelnt**
+<br>
 <img width="316" height="177" alt="image" src="https://github.com/user-attachments/assets/4de7a1bf-244b-42b1-9eb2-201c411ba857" />
-
 <br>
 
 **Version en lenguaje de programación C**
