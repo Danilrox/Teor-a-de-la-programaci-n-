@@ -82,7 +82,7 @@ return 0;
 ### Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay
 **Prueba de escritorio**
 <img width="1084" height="146" alt="image" src="https://github.com/user-attachments/assets/27ed34c3-663f-4357-b2bc-cb00fa611e1d" />
-}
+
 ```
 Algoritmo CalculadoraDePorcentajes
 	//Definir datos
@@ -157,7 +157,6 @@ return 0;
 - Se pide al usuario que ingrese el número de hombres y se guarda en la variable Hombres.
 - Se calcula los procenatajes con sus respectivas formulas.
 - Se imprimen los porcentajes calculados con dos decimales (%.2f) en la terminal de C.
-<br>
 <br>
 
 **Resultado de la terminal de C**
