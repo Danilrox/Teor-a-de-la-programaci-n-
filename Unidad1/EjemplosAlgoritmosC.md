@@ -80,6 +80,9 @@ return 0;
 <br>
 
 ### Algoritmo que calcula cual es el porcentajde de hombres y mujeres que hay
+**Prueba de escritorio**
+<img width="1084" height="146" alt="image" src="https://github.com/user-attachments/assets/27ed34c3-663f-4357-b2bc-cb00fa611e1d" />
+}
 ```
 Algoritmo CalculadoraDePorcentajes
 	//Definir datos
@@ -160,11 +163,3 @@ return 0;
 **Resultado de la terminal de C**
 <br>
 <img width="969" height="153" alt="image" src="https://github.com/user-attachments/assets/6dd1c0a7-ebea-4680-9529-49948cfcdc30" />
-
-<br>
-
-**Prueba de escritorio**
-<img width="1084" height="146" alt="image" src="https://github.com/user-attachments/assets/27ed34c3-663f-4357-b2bc-cb00fa611e1d" />
-
-
-
