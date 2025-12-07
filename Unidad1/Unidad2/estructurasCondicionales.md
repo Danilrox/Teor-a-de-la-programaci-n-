@@ -23,8 +23,10 @@ if(condicion)
 
 #### 🧩 Condicional if else
 El condicional IF-ELSE es una evolución del IF sencillo, que nos permite añadir un código a ejecutar cuando la condición es false.
-De forma coloquial, el condicional IF-ELSE significa,
+De forma coloquial, el condicional IF-ELSE significa:
+<br>
 Si pasa esto 🡆 haz esto
+<br>
 Si no 🡆 haz esto otro
 <br>
 <br>
