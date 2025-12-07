@@ -1,5 +1,5 @@
 ## 🎯 Ejemplos de Algortimos con estructuras lineales/secuenciales
-### [Volver a Unidad 1](Unidad1.md)
+### [↩️ Volver a Unidad 1](Unidad1.md)
 ### Algoritmo que calcula el presupuesta de pintura dependiendo de los metros cuadrados
 **Prueba de escritorio**
 <br>
