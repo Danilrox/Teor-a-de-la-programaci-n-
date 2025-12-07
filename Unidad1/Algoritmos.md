@@ -69,7 +69,7 @@ FinAlgoritmo
 <br>
 <br>
 
-**📊 Pruebas de escritorio:** Las pruebas de escritorio (también llamadas traza, dry run o simulación manual) son una técnica utilizada en programación para simular la ejecución de un algoritmo paso a paso, sin necesidad de ejecutarlo en una computadora.
+**📊 Pruebas de escritorio:** Las pruebas de escritorio (también llamadas traza, dry run o simulación manual) son una técnica utilizada en programación para simular la ejecución de un algoritmo paso a paso, sin necesidad de ejecutarlo en una computadora. Ejemplo de prueba de escritorio del algoritmo perimetro y area de un rectangulo.
 | Paso | Instrucción                   | base | altura | Perimetro | Area |
 | ---- | ----------------------------- | ---- | ------ | --------- | ---- |
 | 1    | Leer base                     | 5    | —      | —         | —    |
