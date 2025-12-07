@@ -74,6 +74,9 @@ return 0;
 - Para encontra el presupuesto se utiliza la siguiente formula: presupuesto = m2 * precio_metro2;
 - Finalemente con el siguiente comando se va imprimir la respuesta en la terminal: printf("tu presupuesto es de %d dolares", presupuesto);
 - Para declarar que el programa terminó se escribe return 0; al final del codigo de la funcion int main().
+- Para copilar el programa se escribe el siguiente comando en la terminal: gcc arhcivo.c -o archivo y donde esta archivo se reemplaza con el nombre de guardado de tu programa.
+- Para ejecutar el código se escribe el siguiente comando en la terminal: ./archivo.exe y se reemplaza archivo con el nombre de guarado de tu programa. 
+
 <br>
 
 **Resultado de la terminal de C**
@@ -161,6 +164,9 @@ return 0;
 - Se pide al usuario que ingrese el número de hombres y se guarda en la variable Hombres.
 - Se calcula los procenatajes con sus respectivas formulas.
 - Se imprimen los porcentajes calculados con dos decimales (%.2f) en la terminal de C.
+- Para copilar el programa se escribe el siguiente comando en la terminal: gcc arhcivo.c -o archivo y donde esta archivo se reemplaza con el nombre de guardado de tu programa.
+- Para ejecutar el código se escribe el siguiente comando en la terminal: ./archivo.exe y se reemplaza archivo con el nombre de guarado de tu programa.
+
 <br>
 
 **Resultado de la terminal de C**
