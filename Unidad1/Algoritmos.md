@@ -66,4 +66,7 @@ FinAlgoritmo
 - Resultado en la consola:
 <br>
 <img width="347" height="208" alt="image" src="https://github.com/user-attachments/assets/f909ad9f-62fb-47dc-8620-0139f6e6ad5f" />
+<br>
+
+**📊 Pruebas de escritorio:** Las pruebas de escritorio (también llamadas traza, dry run o simulación manual) son una técnica utilizada en programación para simular la ejecución de un algoritmo paso a paso, sin necesidad de ejecutarlo en una computadora.
 
