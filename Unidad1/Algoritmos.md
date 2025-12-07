@@ -1,22 +1,15 @@
 ## 🧩 Algoritmos, diagramas de flujo y pseudocódigo
 ### [Volver a Unidad 1](Unidad1.md)
 **🤖 Algoritmo:** es una secuencia de pasos lógicamente ordenados y finitos que dan solución a un problema determinado. Como una receta que indica qué hacer, en qué orden y cómo hacerlo para obtener un resultado. Sus características principales son ser preciso, ordenado, finito, recibir entradas, generar salidas y ser eficiente. Antes de programarlo, se puede representar en pseudocódigo o diagrama de flujo y luego traducirse a un lenguaje de programación como C, Python o Java para que la computadora lo ejecute. Ejemplo:
-<br>
-<br>
+```
 Algoritmo: Calculadora de Sumas
-<br>
 Iniciar
-<br>
 Leer el primer número A
-<br>
 Leer el segundo número B
-<br>
 Calcular la suma: S = A + B
-<br>
 Mostrar "El resultado de la suma es: " + S
-<br>
 Fin
-<br>
+```
 
 **📊 Diagrama de flujo:** Un diagrama de flujo es una representación gráfica de un algoritmo que muestra, mediante símbolos y flechas, el orden y la secuencia de pasos necesarios para resolver un problema o realizar una tarea. Se utiliza para visualizar la lógica de un proceso antes de programarlo, facilitar su comprensión y detectar errores o mejoras. En pocas palabras, un diagrama de flujo convierte un algoritmo en un mapa gráfico fácil de seguir.
 
@@ -26,6 +19,7 @@ Fin
 - Paralelogramo: Datos
 - 🔷 Rombo: decisión (sí/no)  
 - ➡️ Flechas: dirección del flujo
+<br>
 - Ejemplo de diagrama de flujo:
 <img width="400" height="768" alt="image" src="https://github.com/user-attachments/assets/bbe95765-47cb-4b31-935b-f8eb2a71714a" />
 <br>
