@@ -165,9 +165,12 @@ int main()
 <img width="618" height="356" alt="image" src="https://github.com/user-attachments/assets/42da662d-0dfa-427a-ac37-117957c78ce9" />
 <br>
 
+#### Resultado en la terminal:
+<img width="647" height="55" alt="image" src="https://github.com/user-attachments/assets/91c5a85c-418b-4e3f-9384-2f5e5ef908a8" />
+
 ---
 
-### 📄 Programa que determine si el número es impar
+### 📄 Programa que realice una operacion matematica dependiendo del operando ingresado
 ```
 int main(){
     float n1, n2;
@@ -200,6 +203,57 @@ int main(){
 ```
 
 #### Diagrama de Flujo:
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/d5ff0c57-2899-43e6-84cc-bbfc6b97e446" />
-<br>
+<img width="1253" height="591" alt="image" src="https://github.com/user-attachments/assets/37e798ca-c762-4e35-9ef1-bdb8f8c4c51b" />
 
+#### Resultado en la terminal:
+<img width="595" height="107" alt="image" src="https://github.com/user-attachments/assets/ca396cdd-56aa-4359-9aee-d371f19d95e0" />
+
+---
+
+### 📄 Programa que determine el dia de la semana según el número indicado
+```
+#include <stdio.h>
+
+int main(){
+    int dia;
+    
+    printf("Ingresa un día de la semana del 1 al 7: ");
+    scanf("%i", &dia);
+    getchar();
+    
+    switch(dia){
+        case 1: 
+            printf("es lunes");
+            break;
+        case 2: 
+            printf("es martes");  
+            break;
+        case 3: 
+            printf("es miercoles");
+            break;
+        case 4: 
+            printf("es jueves");  
+            break;  
+        case 5: 
+            printf("es viernes");  
+            break; 
+        case 6: 
+            printf("es sabado");  
+            break;  
+        case 7: 
+            printf("es domingo");  
+            break;  
+        default:
+            printf("número no valido");
+            break;
+    }
+    
+    return 0;
+}
+```
+
+#### Diagrama de Flujo:
+<img width="1250" height="388" alt="image" src="https://github.com/user-attachments/assets/b3498409-14ac-4b15-b67e-fdb7d509a7c5" />
+
+#### Resultado en la terminal:
+<img width="673" height="85" alt="image" src="https://github.com/user-attachments/assets/2498d728-0b20-4f29-bb3e-b2e9f0aeff6a" />
