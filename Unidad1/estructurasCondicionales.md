@@ -48,6 +48,8 @@ else
 <img width="500" height="455" alt="image" src="https://github.com/user-attachments/assets/8aa48be0-c872-449e-8b91-91ceae6f314d" />
 <br>
 
+---
+
 #### 🧩 Condicional if - elseif
 El condicional IF-ELSEIF es una evolución de los condicionales IF y IF-ELSE, que nos permite evaluar múltiples condiciones y ejecuta diferentes bloques de código en función del resultado de cada condición. Ademas es una forma de evitar el anidamiento, mediante una forma de sintaxis más cómoda y fácil de leer.
 <br>
@@ -85,6 +87,8 @@ else
 <img width="500" height="455" alt="image" src="https://github.com/user-attachments/assets/8aa48be0-c872-449e-8b91-91ceae6f314d" />
 <br>
 
+---
+
 #### 🧩 Condicional if - elseif
 El condicional SWITCH permite evaluar una expresión y ejecutar diferentes bloques de código en función del valor de dicha expresión. Rs una estructura de control que ofrece una alternativa al condicional IF-ELSE para tomar decisiones basadas en múltiples casos.
 <br>
@@ -113,7 +117,7 @@ switch(expresion):
 <img width="768" height="467" alt="image" src="https://github.com/user-attachments/assets/6270015b-1f1b-41e7-aebe-907657c58cea" />
 <br>
 
----
+</div>
 
 ### 📟 Ejercicios en diagrama de flujo y en C
 ### 📄 Programa que determine si el número es impar
