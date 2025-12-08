@@ -93,7 +93,7 @@ print(f"EL PROMEDIO DEL AULA ES DE: {promedio:.2f}")
 
 ```
 
-### Verificacón
+### Verificación
 <img width="586" height="356" alt="image" src="https://github.com/user-attachments/assets/a462abbf-60fa-4e80-95c3-18b933ce75a6" />
 <img width="493" height="327" alt="image" src="https://github.com/user-attachments/assets/64ffece7-6e02-4475-999c-83c6744c2361" />
 
