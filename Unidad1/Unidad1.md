@@ -4,6 +4,6 @@
 ### [Algoritmos, diagramas de flujo y pseudocódigo](Algoritmos.md)
 ### [Ejemplos de Algortimos con estructuras lineales/secuenciales](EjemplosAlgoritmosC.md)
 ### [Tareas entregadas](Tareasentregadas.md)
-### [Dificultades en la aplicación de los contenidos](Dificultades.md)
-### [Reflexión Critica de los aprendizajes de la Unidad](Reflexion.md)
+### [Dificultades en la aplicación de los contenidos](DificultadesUnidad2.md)
+### [Reflexión Critica de los aprendizajes de la Unidad](ReflexionUnidad2.md)
 
