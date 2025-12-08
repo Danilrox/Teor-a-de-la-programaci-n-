@@ -50,3 +50,26 @@ do {
 </div>
 
 ### 📟 Ejercicios en diagrama de flujo y en C
+
+```
+#include <stdio.h>
+
+int main(){
+    int n, c;
+    c = 0;
+
+    printf("DEBUG: inicio del programa\n");
+    printf("Ingresa un numero: ");
+    scanf("%i", &n);
+    while (n > 0)
+    {      
+        printf("Ingresa un numero: ");
+        scanf("%i", &n);
+        c ++;
+    }
+    
+    printf("haz ingresado %i numeros positivos", c);
+    return 0;
+}
+#include <stdio.h>
+```
