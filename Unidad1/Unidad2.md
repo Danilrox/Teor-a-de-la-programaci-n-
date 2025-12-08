@@ -4,7 +4,7 @@
 ### [Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)](estructurasRepititivas.md)
 ### [Ejercicio combinando estructura condicional y repetitiva (Java o Python). ](EjercicioCombinado.md)
 ### [Principales dificultades en la aplicación de los contenidos](DificultadesUnidad2.md)
-### [Reflexión crítica de los aprendizajes de la unidad](Dificultades.md)
+### [Reflexión crítica de los aprendizajes de la unidad](ReflexionUnidad2.md)
 ### [Tareas entregadas](Reflexion.md)
 
 
