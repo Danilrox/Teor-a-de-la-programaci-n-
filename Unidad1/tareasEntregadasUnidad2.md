@@ -4,12 +4,12 @@
 <br>
 <br>
 
-[Aplicación de estructuras repetitivas en la resolución de problemas](APE2Aplicaciondeestructurasrepetitivasenlaresoluciondeproblemas.pdf)
+[Aplicación de estructuras repetitivas en la resolución de problemas](Tareasentregadas/APE2Aplicaciondeestructurasrepetitivasenlaresoluciondeproblemas.pdf)
 <br>
 <br>
 
-[Diferencias entre los tipos de estructuras condicionales](AA1Diferenciasentrelostiposdeestructurascondicionales.pdf)
+[Diferencias entre los tipos de estructuras condicionales](Tareasentregadas/AA1Diferenciasentrelostiposdeestructurascondicionales.pdf)
 <br> 
 <br>
 
-[Cuadro comparativo entre las estructuras repetitivas](AA2Cuadrocomparativoentrelasestructurasrepetitivas.pdf)
+[Cuadro comparativo entre las estructuras repetitivas](Tareasentregadas/AA2Cuadrocomparativoentrelasestructurasrepetitivas.pdf)
