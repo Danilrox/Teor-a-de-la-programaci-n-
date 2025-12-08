@@ -1,10 +1,10 @@
 ## 🎓💡Tareas entregadas
 ### [↩️ Volver a Unidad 1](Unidad1.md)
-[Aplicación de estructuras condicionales en la resolución de problemas](APE1Aplicacióndeestructurascondicionalesenlaresolucióndeproblemas.pdf)
+[Aplicación de estructuras condicionales en la resolución de problemas](APE1Aplicaciondeestructurascondicionalesenlaresoluciondeproblemas.pdf)
 <br>
 <br>
 
-[Aplicación de estructuras repetitivas en la resolución de problemas](APE2Aplicacióndeestructurasrepetitivasenlaresolucióndeproblemas.pdf)
+[Aplicación de estructuras repetitivas en la resolución de problemas](APE2Aplicaciondeestructurasrepetitivasenlaresoluciondeproblemas.pdf)
 <br>
 <br>
 
