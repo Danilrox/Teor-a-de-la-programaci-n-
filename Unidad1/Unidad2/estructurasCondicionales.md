@@ -1,7 +1,7 @@
 ## 🔀 Estructuras condicionales
 Las estructuras condicionales son un tipo de control de flujo en programación que permiten que un programa tome decisiones y ejecute diferentes bloques de código en función de si una condición es verdadera o falsa.
 
-#### 🧩 Tipos de estructuras condicionales
+### 🧩 Tipos de estructuras condicionales
 #### condicional if: 
 El condicional IF es el más sencillo de los condicionales. Es una estructura de control que evalúa una condición y ejecuta un bloque de código si dicha condición es verdadera.
 En lenguaje natural, el condicional IF significa:
@@ -112,4 +112,4 @@ switch(expresion):
 <img width="768" height="467" alt="image" src="https://github.com/user-attachments/assets/6270015b-1f1b-41e7-aebe-907657c58cea" />
 <br>
 
-#### 📟 Ejercicios en diagrama de flujo y en C
+### 📟 Ejercicios en diagrama de flujo y en C
