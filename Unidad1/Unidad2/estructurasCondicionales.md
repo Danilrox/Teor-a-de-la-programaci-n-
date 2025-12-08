@@ -47,7 +47,7 @@ else
 <br>
 
 #### 🧩 Condicional if - elseif
-El condicional IF-ELSEIF es una evolución de los condicionales IF y IF-ELSE, que nos permite evaluar múltiples condiciones y ejecuta diferentes bloques de código en función del resultado de cada condición.
+El condicional IF-ELSEIF es una evolución de los condicionales IF y IF-ELSE, que nos permite evaluar múltiples condiciones y ejecuta diferentes bloques de código en función del resultado de cada condición. Ademas es una forma de evitar el anidamiento, mediante una forma de sintaxis más cómoda y fácil de leer.
 <br>
 En lenguaje natural el bucle IF-ELSEIF significa:
 <br>
@@ -80,7 +80,6 @@ else
 }
 ```
 
-El condicional IF-ELSEIF es una forma de evitar el anidamiento, mediante una forma de sintaxis más cómoda y fácil de leer.
 <img width="500" height="455" alt="image" src="https://github.com/user-attachments/assets/8aa48be0-c872-449e-8b91-91ceae6f314d" />
 <br>
 
