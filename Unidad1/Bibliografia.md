@@ -18,5 +18,9 @@
 - [6] Marketing, “¿Qué es el lenguaje de programación C?”, MSMK University, 19 May 2025. [En línea]. Disponible: https://msmk.university/que-es-el-lenguaje-de-programacion-c/
 
 - [7] L. Llamas, «Qué son los condicionales», Luis Llamas.Accedido: 23 de noviembre de 2025. [En línea].Disponible en: https://www.luisllamas.es/programacioncondicionales/
-- [8] R. Maldonado, «¿Qué son los ciclos de programación o bucles y qué tipos hay? [2025]». Accedido: 4 de diciembre de 2025. [En línea]. Disponible en: https://keepcoding.io/blog/bucles-o-ciclos-de-programacion/ 
+<br>
+
+- [8] R. Maldonado, «¿Qué son los ciclos de programación o bucles y qué tipos hay? [2025]». Accedido: 4 de diciembre de 2025. [En línea]. Disponible en: https://keepcoding.io/blog/bucles-o-ciclos-de-programacion/
+<br>
+
 - [9] «Qué es un bucle en programación y sus tipos principales». Accedido: 4 de diciembre de 2025. [En línea]. Disponible en: https://tecnologia.euroinnova.com/bucle
