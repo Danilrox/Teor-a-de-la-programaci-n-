@@ -136,6 +136,8 @@ int main()
 <img width="612" height="73" alt="image" src="https://github.com/user-attachments/assets/af796446-83fe-4641-84d6-ed2747a683cf" />
 <br>
 
+</div>
+
 ### 📄 Programa que determine si un número es multiplo de 3
 ```
 #include<stdio.h>
@@ -160,6 +162,8 @@ int main()
 #### Diagrama de Flujo:
 <img width="618" height="356" alt="image" src="https://github.com/user-attachments/assets/42da662d-0dfa-427a-ac37-117957c78ce9" />
 <br>
+
+</div>
 
 ### 📄 Programa que determine si el número es impar
 ```
@@ -194,6 +198,6 @@ int main(){
 ```
 
 #### Diagrama de Flujo:
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/17fd0bc2-9f15-4134-b0a5-66494ef69549" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/d5ff0c57-2899-43e6-84cc-bbfc6b97e446" />
 <br>
 
