@@ -4,6 +4,8 @@ En programación, los bucles o ciclos desempeñan un papel fundamental al permit
 
 ### 🧩 Tipos de estructuras repititvas
 #### FOR: 
+Se usa cuando se conoce cuántas veces se repetirá el ciclo. Ideal para conteos y recorrido.
+<br>
 Tiene 4 parámetros:
 <br>
 -Variable de inicio: donde se comienza a ejecutar el ciclo.
@@ -25,10 +27,26 @@ for (int i = 0; i < n; i++) {
 ---
 
 #### WHILE: 
-Evalúa una condición lógica antes de ejecutar el bloque. Si la condición es falsa, no se ejecuta ninguna vez. Tiene la siguiente estructura:
-<br>
+Evalúa una condición lógica antes de ejecutar el bloque. Si la condición es falsa, no se ejecuta ninguna vez. Se usa cuando no se sabe cuántas iteraciones serán necesarias; depende de una condición.  Tiene la siguiente estructura:
+```
 while (condicion) {
     // Instrucciones a ejecutar
 }
-<br>
+```
 
+---
+
+#### DO…WHILE:
+Ejecuta el bloque primero y luego evalúa la condición. Garantiza al menos una ejecución [2]. Es decir, un código se repetirá, después de ser ejecutado, cuando se cumpla la condición. Se usa cuando es necesario que el bloque se ejecute mínimo una vez. 
+<br>
+Tiene la siguiente estructura:
+```
+do {
+    // Instrucciones a ejecutar
+} while (condicion);
+
+```
+
+</div>
+
+### 📟 Ejercicios en diagrama de flujo y en C
