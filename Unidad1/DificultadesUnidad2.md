@@ -1,2 +1,7 @@
 ## ⚙️ Dificultades en la aplicación de los contenidos
 ### [↩️ Volver a Unidad 2](Unidad2.md)
+Durante el desarrollo de la Unidad 2 surgieron varias dificultades relacionadas con la aplicación práctica de los contenidos estudiados. La primera de ellas fue comprender y estructurar adecuadamente las sentencias condicionales, ya que al trabajar con múltiples decisiones encadenadas (como rangos de notas y validaciones) resultó complejo establecer un orden lógico que evitara contradicciones o condiciones redundantes. Además, al implementar estructuras repetitivas para solicitar datos de forma continua, tuve dificultades para asegurar que los ciclos terminaran en el momento correcto y que no se generaran repeticiones infinitas por errores en la condición de salida.
+
+Otra dificultad importante fue la validación de datos de entrada. Al solicitar múltiples calificaciones al usuario, resultó complicado evitar valores erróneos o fuera de rango sin afectar el funcionamiento general del programa. Esto también implicó reorganizar el algoritmo varias veces para garantizar que cada dato fuera verificado antes de ser utilizado en cálculos posteriores.
+
+Finalmente, el cálculo de los ponderados y promedios finales exigió un mayor nivel de organización. Mantener el control de tantas variables por estudiante y, al mismo tiempo, generar un promedio general del grupo, requería atención al detalle y un manejo adecuado de acumuladores y operaciones matemáticas, lo cual generó varias confusiones en un inicio.
