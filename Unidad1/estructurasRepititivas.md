@@ -50,6 +50,7 @@ do {
 </div>
 
 ### 📟 Ejercicios en diagrama de flujo y en C
+#### 📄 Programa que cuenta cuantos números positivos haz ingresado
 
 ```
 #include <stdio.h>
@@ -73,3 +74,12 @@ int main(){
 }
 #include <stdio.h>
 ```
+
+#### Diagrama de flujo
+<img width="491" height="677" alt="image" src="https://github.com/user-attachments/assets/b8d0b05f-f507-448e-85bf-23ee5e23c2ef" />
+<br>
+
+#### Prueba en la terminal
+<img width="632" height="141" alt="image" src="https://github.com/user-attachments/assets/9442a39d-adf3-4f5f-8d17-34de5b42b905" />
+
+
