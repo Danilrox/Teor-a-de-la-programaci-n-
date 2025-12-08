@@ -21,7 +21,7 @@ Al finalizar, se muestran en pantalla los promedios individuales de cada pondera
 ### 📊 Diagrama de flujo simplificado 
 <img width="1055" height="634" alt="image" src="https://github.com/user-attachments/assets/9d2dc995-3eed-46c2-9022-e02b13aaefe8" />
 
-### 📟 Programa en el lenguaje C
+### 📟 Programa en el lenguaje Python
 ```
 def pedir_nota(mensaje):
     while True:
