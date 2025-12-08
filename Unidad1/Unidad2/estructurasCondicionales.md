@@ -112,3 +112,88 @@ switch(expresion):
 <br>
 
 ### 📟 Ejercicios en diagrama de flujo y en C
+### 📄 Programa que determine si el número es impar
+```
+#include<stdio.h>
+
+int main()
+{
+   int numero;
+   printf("Ingrese un numero:\n");
+   scanf("%i", &numero);
+   getchar();
+   if(numero % 2 == 1){
+       printf("El numero %i es impar\n", numero);
+   }
+   return 0;
+}
+```
+
+#### Diagrama de Flujo:
+<img width="911" height="574" alt="image" src="https://github.com/user-attachments/assets/40211556-56c7-4ef9-bda5-ccf6a8fc8dc4" />
+
+#### Resultado en la terminal:
+<img width="612" height="73" alt="image" src="https://github.com/user-attachments/assets/af796446-83fe-4641-84d6-ed2747a683cf" />
+<br>
+
+### 📄 Programa que determine si un número es multiplo de 3
+```
+#include<stdio.h>
+
+int main()
+{
+    int numero;
+    float division;
+    
+    printf("Ingresa un numero: ");
+    scanf("%i", &numero);
+    
+    if(numero%3 == 0){
+        printf("el número es múltiplo de 3");
+    }else{
+        printf("el número no es múltiplo de 3");
+    }
+    return 0;
+}
+```
+
+#### Diagrama de Flujo:
+<img width="618" height="356" alt="image" src="https://github.com/user-attachments/assets/42da662d-0dfa-427a-ac37-117957c78ce9" />
+<br>
+
+### 📄 Programa que determine si el número es impar
+```
+int main(){
+    float n1, n2;
+    char a;
+    float resultado;
+    
+    printf("Ingresa el primer numero: ");
+    scanf("%f", &n1);
+    printf("Ingresa el segundo numero: ");
+    scanf("%f", &n2);
+    printf("Ingresa el operador: ");
+    scanf(" %c", &a);
+    getchar();
+    
+    if(a == '+'){
+        resultado = n1 + n2;
+        printf("el resultado es: %.2f", resultado);
+    }else if(a == '-'){   
+        resultado = n1 - n2;
+        printf("el resultado es: %.2f", resultado);  
+    }else if(a == '*'){   
+        resultado = n1 * n2;
+        printf("el resultado es: %.2f", resultado);
+    }else if(a == '/'){
+        resultado = n1 / n2;
+        printf("el resultado es: %.2f", resultado);
+    }
+    return 0;
+}
+```
+
+#### Diagrama de Flujo:
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/17fd0bc2-9f15-4134-b0a5-66494ef69549" />
+<br>
+
