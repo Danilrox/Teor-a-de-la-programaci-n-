@@ -82,4 +82,57 @@ int main(){
 #### Prueba en la terminal
 <img width="632" height="141" alt="image" src="https://github.com/user-attachments/assets/9442a39d-adf3-4f5f-8d17-34de5b42b905" />
 
+--- 
 
+#### 📄 Programa que cuenta cuantos números pares hay del 2 al 50
+```
+#include <stdio.h>
+int main(){
+    int n = 0, c = 1;
+
+    do
+    {
+        c ++;
+        if (c %2 == 0)
+        {
+            n ++;
+        }
+    } while (c >= 2 && c<=50);
+    
+    printf("del 2 al 50 hay %i numeros pares", n);
+    return 0;
+}
+```
+
+#### Diagrama de flujo
+<img width="539" height="671" alt="image" src="https://github.com/user-attachments/assets/d932e02f-aa2b-4203-9668-e9f77d72f2c4" />
+
+#### Prueba en la terminal
+<img width="554" height="86" alt="image" src="https://github.com/user-attachments/assets/936e90e9-41c0-4877-b6a7-257550d1c5e3" />
+
+---
+
+#### 📄 Tabla de multiplicar del 1 - 12
+```
+#include<stdio.h>
+
+int main()
+{
+    int i, j;
+    
+    for (i = 1; i <= 12; i++){
+        printf("tabla de multiplicar del %i\n", i);
+        for (j = 1; j<=10; j++){
+            printf("%i * %i = %i\n", i, j, i*j);
+        }
+    }
+    
+    return 0;
+}
+```
+
+#### Diagrama de flujo
+<img width="853" height="571" alt="image" src="https://github.com/user-attachments/assets/18de6203-9046-447a-9e88-a2f0c39bff0c" />
+
+#### Prueba en la terminal
+<img width="647" height="314" alt="image" src="https://github.com/user-attachments/assets/2cfe46e5-c898-4e80-b415-dea1014c9ca2" />
