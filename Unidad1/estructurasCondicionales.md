@@ -1,6 +1,7 @@
 ## 🔀 Estructuras condicionales
 ## [↩️ Volver a la Unidad2](Unidad2.md)
 Las estructuras condicionales son un tipo de control de flujo en programación que permiten que un programa tome decisiones y ejecute diferentes bloques de código en función de si una condición es verdadera o falsa.
+Las condiciones permiten al programa elegir entre diferentes caminos de ejecución. Si la condición es verdadera, se ejecuta un tipo de acción; si es falsa, se puede ejecutar otra acción o ninguna.
 
 ### 🧩 Tipos de estructuras condicionales
 #### condicional if: 
