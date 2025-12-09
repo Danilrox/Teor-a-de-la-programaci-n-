@@ -1,4 +1,4 @@
-## 🔄 Estructuras repititivas
+## 📘 Ejercicio combinando estructura condicional y repetitiva (Java o Python).
 ## [↩️ Volver a la Unidad2](Unidad2.md)
 ### 📘 Descripción del Problema
 El programa tiene como objetivo calcular la nota final de un grupo de estudiantes a partir de los distintos ponderados de evaluación establecidos en la unidad académica. Cada estudiante posee calificaciones en cuatro componentes:
